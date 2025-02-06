@@ -3,11 +3,13 @@
 # Duolingo
 1. https://www.duolingo.com/profile/richardborgesdev
 
+# Busuu
+1. https://www.busuu.com
+
 # DET | Duolingo English Test
 1. https://englishtest.duolingo.com/home
+1. https://www.youtube.com/@TeacherLuke-DET
 
 # TOEFL | Test of English as a Foreign Language
-1.
-
-# IELTS | International English Language Testing System
-1.
+1. https://www.youtube.com/@TOEFL_test_with_LinguaTrip
+1. https://www.youtube.com/@TSTPrep
