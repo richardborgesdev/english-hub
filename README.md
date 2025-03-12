@@ -21,3 +21,9 @@
 
 # Podcasts
 1. https://americanenglishpodcast.com
+
+# Progress
+## Busuu | 56 days of grammar review
+[![Busuu | 56 days of grammar review](https://img.youtube.com/vi/lyigoQy1Vyk/0.jpg)](https://www.youtube.com/watch?v=lyigoQy1Vyk)
+## Duolingo | 2314 dias de curso de inglês em português
+[![Duolingo | 2314 dias de curso de inglês em português](https://img.youtube.com/vi/DR6Iyrt0Zhw/0.jpg)](https://www.youtube.com/watch?v=DR6Iyrt0Zhw)
