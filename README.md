@@ -10,8 +10,6 @@
 1. https://englishtest.duolingo.com/home
 1. https://www.youtube.com/@TeacherLuke-DET
 
-## Duolingo Progress
-
 # TOEFL | Test of English as a Foreign Language
 1. https://www.youtube.com/@TOEFL_test_with_LinguaTrip
 1. https://www.youtube.com/@TSTPrep
