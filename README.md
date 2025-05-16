@@ -11,6 +11,7 @@
 1. https://www.youtube.com/@TeacherLuke-DET
 
 # TOEFL | Test of English as a Foreign Language
+1. https://www.ets.org/toefl.html
 1. https://www.youtube.com/@TOEFL_test_with_LinguaTrip
 1. https://www.youtube.com/@TSTPrep
 1. https://www.youtube.com/@linguamarina
@@ -18,9 +19,13 @@
 # From Brazil
 1. https://www.youtube.com/@mairovergara
 1. https://www.youtube.com/@MatheusWernerJerke
+1. https://www.youtube.com/@teacher.thiagoalencar
 
 # Podcasts
 1. https://americanenglishpodcast.com
+
+# TEFL | Teaching English as a Foreign Language.
+1. https://www.tefl.org/
 
 # Progress
 ## Busuu | 56 days of grammar review
