@@ -1,5 +1,103 @@
 # Cambly diary
 
+## Class 3 | 15 july 2025
+
+### Cambly ai feedback:
+#### Vocabulary:
+1. What you're doing well:
+    > You used correct verb tenses throughout the conversation.
+
+1. Explanation:
+    > Your use of past and present tenses was appropriate, such as when discussing your interview experiences and responsibilities.
+
+#### Grammar:
+1. You said: "too much, too many meetings."
+    > Suggestion: "too many meetings."
+    > Explanation: The phrase 'too much' is used incorrectly with 'meetings', which is a countable noun.
+
+1. You said: "I have to transform in code to be executed in a browser,"
+    > Suggestion: "I have to transform it into code to be executed in a browser,"
+    > Explanation: The phrase 'transform in code' should be 'transform it into code'.
+
+1. You said: "the requirements for the hard skill,"
+    > Suggestion: "the requirements for the hard skills,"
+    > Explanation: The phrase 'hard skill' should be pluralized to 'hard skills' to match the context.
+
+1. You said: "I did a course to, I completed the course to learn the tool that the company use,"
+    > Suggestion: "I did a course to, I completed the course to learn the tool that the company uses,"
+    > Explanation: The verb 'use' should be 'uses' to agree with the singular subject 'company'.
+
+1. You said: "I have to do a presentation, yeah, it was hard, because it was"
+    > Suggestion: "I had to do a presentation, yeah, it was hard, because it was"
+    > Explanation: The sentence should maintain consistent verb tense.
+
+### Additional class insights:
+#### Vocabulary learned:
+1. **sinus headache**: pain behind the nose area due to sinus pressure
+2. **sinusitis**: sinus infection with inflammation
+3. **preview**: early view of design/interface (not prototype in this context)
+4. **specifically**: without the 'e' at beginning - common pronunciation error
+5. **screen/screening**: evaluate someone for a job (verb) vs display device (noun)
+6. **cultural fit**: how well someone aligns with company values
+7. **company culture**: shared values and practices of an organization
+8. **hard skills**: technical abilities and knowledge
+9. **HR (Human Resources)**: department handling hiring and employee matters
+10. **nerve-wracking**: causing anxiety or nervousness
+
+#### Pronunciation practice needed:
+1. **specifically**: /spəˈsɪfɪkli/ - not "aspesifically"
+2. **sinus**: /ˈsaɪnəs/ - relating to nasal cavities
+3. **prototype**: /ˈproʊtətaɪp/ - early model or design
+
+#### Communication strengths identified:
+1. Good technical explanation of front-end development work
+2. Effective use of professional introduction structure
+3. Able to discuss interview experiences and preparation
+4. Strong engagement in describing complex technical processes
+5. Good comprehension of interview-related vocabulary
+
+#### Areas for improvement:
+1. **word choice**: "prototype" vs "preview" for design mockups
+2. **prepositions**: "transform into code" not "transform in code"
+3. **pluralization**: "hard skills" not "hard skill"
+4. **verb tense consistency**: mixing present/past when telling stories
+5. **subject-verb agreement**: "company uses" not "company use"
+6. **pronunciation**: eliminating the extra "a" sound in "specifically"
+
+#### Class activities completed:
+1. Practiced professional self-introduction with written preparation
+2. Discussed technical job responsibilities and tasks
+3. Explained front-end development workflow (preview → code)
+4. Covered interview preparation strategies
+5. Analyzed interview vocabulary and terminology
+6. Discussed cultural fit and company culture concepts
+
+#### Next steps:
+1. Practice using "preview" instead of "prototype" for design mockups
+2. Work on consistent verb tenses when narrating experiences
+3. Focus on subject-verb agreement with singular subjects
+4. Continue practicing professional introductions
+5. Prepare to discuss own interview experiences next class
+
+#### Teacher's assessment:
+- **Strength**: excellent technical knowledge and ability to explain complex processes
+- **Progress**: improved professional introduction skills, good vocabulary retention
+- **Focus area**: word choice precision, verb tense consistency, and subject-verb agreement
+- **Recommendation**: continue practicing technical explanations with correct terminology
+
+#### Teacher's direct feedback:
+**What you did well:**
+> Great work today Richard! I think we have to continue correcting our vocabulary to be more precise when describing certain aspects of our work like changing the word prototype to preview, let's continue keeping on eye on that!
+
+**Keep working on:** Coherence
+
+**Examples from class:**
+- **Professional introduction:** "Hello, my name is Richard Borges, I'm a software engineer. I specifically work as a frontend engineer and have been working in this area since 2013. It'll be a pleasure to work with you on this next project."
+- **Technical explanation:** "An example of a task that I have is getting a preview of what a website or program interface looks like and its features, which I then have to translate to code."
+- **Vocabulary corrections noted:** preview (not prototype), training course/personnel training, nerve-wracking, hiring process vs screening process
+
+---
+
 ## Class 2 | 8 july 2025
 
 ### Cambly ai feedback:
