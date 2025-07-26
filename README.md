@@ -1,13 +1,13 @@
 # english-hub
 
 ## Tasks
-- [] Duolingo | Finish all legendary levels
-- [] Busuu | Finish all extra courses
-- [] Busuu | Finish main course
-- [] Create my own grammar review
-- [] DET | 120+ points
-- [] TOEFL | 100+ points
-- [] IELTS | 7.5+ points
+- [ ] Duolingo | Finish all legendary levels
+- [ ] Busuu | Finish all extra courses
+- [ ] Busuu | Finish main course
+- [ ] Create my own grammar review
+- [ ] DET | 120+ points
+- [ ] TOEFL | 100+ points
+- [ ] IELTS | 7.5+ points
 
 ## Duolingo
 1. https://www.duolingo.com/profile/richardborgesdev
