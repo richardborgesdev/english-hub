@@ -2,7 +2,7 @@
 
 ## Tasks
 - [ ] Duolingo | Finish all legendary levels
-- [ ] Busuu | Finish all extra courses
+- [X] Busuu | Finish all extra courses
 - [ ] Busuu | Finish main course
 - [ ] Create my own grammar review
 - [ ] DET | 120+ points
@@ -37,9 +37,14 @@
 1. https://www.youtube.com/@veronikas.languagediaries
 1. https://www.youtube.com/@linguamarina
 
+## Grammar
+1. https://www.perfect-english-grammar.com/grammar-explanations.html
+1. https://www.udemy.com/course/learn-english-grammar-online/
+
 ## Pronunciation
 1. https://www.youtube.com/@hadar.shemesh
 1. https://youtube.com/@rachelsenglish
+1. https://www.udemy.com/course/english-pronunciation-master-education
 
 ## Short Stories
 1. https://youtube.com/@carokowanzenglish
