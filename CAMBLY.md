@@ -1,5 +1,86 @@
 # Cambly diary
 
+## Class 4 | 29 july 2025
+
+### Cambly ai feedback:
+#### Coherence:
+1. What you're doing well:
+    > Your ideas flowed logically throughout the conversation.
+
+1. Explanation:
+    > You maintained coherence by connecting your thoughts about job difficulties and software engineering, making it easy for the tutor to follow your points.
+
+#### Grammar:
+1. You said: "Today fine, thank you."
+    > Suggestion: "Today is fine, thank you."
+    > Explanation: The sentence is missing a verb to connect the subject and the complement.
+
+1. You said: "You have to install a lot of tools and to configure."
+    > Suggestion: "You have to install a lot of tools and configure them."
+    > Explanation: The structure of the sentence is not parallel; 'to configure' should match the form of 'install.'
+
+1. You said: "I don't know if you already seen that black screen with the letters."
+    > Suggestion: "I don't know if you have already seen that black screen with the letters."
+    > Explanation: The verb 'seen' is in the wrong tense; it should be 'have seen.'
+
+1. You said: "I don't understand even the example."
+    > Suggestion: "I don't even understand the example."
+    > Explanation: The word order is awkward and can be improved for clarity.
+
+### Additional class insights:
+#### Vocabulary learned:
+1. **repellent**: substance that keeps insects away - pronunciation /rɪˈpel.ənt/
+2. **archaic**: very old-fashioned or outdated way of doing something
+3. **rudimentary**: basic, simple, not advanced
+4. **onboarding**: process of integrating new employees into a company
+5. **trial and error**: learning method through making mistakes and trying again
+6. **authentication**: process of verifying identity for security
+7. **verification code**: security code used to confirm identity
+8. **tracking number**: code used to follow/monitor a package's location
+9. **withdraw**: take money out of an account
+10. **head towards**: go in the direction of something
+
+#### Pronunciation practice needed:
+1. **repellent**: /rɪˈpel.ənt/ - stress on second syllable
+2. **difficulties**: /ˈdɪf.ɪ.kəl.tiz/ - clear pronunciation of all syllables
+3. **old**: avoid adding 'w' sound - /oʊld/ not /woʊld/
+
+#### Communication strengths identified:
+1. Good storytelling about technical work challenges
+2. Effective explanation of complex setup processes
+3. Able to provide specific examples from banking work experience
+4. Strong engagement in discussing technical authentication methods
+5. Good comprehension of phrasal verbs with "track"
+
+#### Areas for improvement:
+1. **sentence structure**: "you have to install tools and to configure" → parallel structure
+2. **verb tenses**: "if you already seen" → "if you have already seen"
+3. **word order**: "I don't understand even" → "I don't even understand"
+4. **missing verbs**: "Today fine" → "Today is fine"
+5. **pronunciation**: avoiding extra sounds in words like "old"
+
+#### Class activities completed:
+1. Discussed first-day work difficulties and setup challenges
+2. Explained software engineering onboarding process complexity
+3. Learned vocabulary related to authentication and security
+4. Practiced phrasal verbs with "track" (keep track, lose track, be on track, track down)
+5. Analyzed differences between verification codes and tracking numbers
+
+#### Next steps:
+1. Practice parallel sentence structure
+2. Review present perfect tense formation
+3. Work on word order in negative sentences
+4. Continue studying phrasal verbs with "track"
+5. Practice pronunciation of multi-syllable words
+
+#### Teacher's assessment:
+- **Strength**: excellent technical knowledge and real-world examples from banking experience
+- **Progress**: improved coherence in storytelling, good vocabulary expansion
+- **Focus area**: sentence structure consistency and verb tense accuracy
+- **Recommendation**: continue practicing complex sentence formation with parallel structure
+
+---
+
 ## Class 3 | 15 july 2025
 
 ### Cambly ai feedback:
