@@ -1,5 +1,86 @@
 # Cambly diary
 
+## Class 5 | 5 August 2025
+
+### Cambly ai feedback:
+#### Other:
+1. What you're doing well:
+    > You effectively asked for clarification when needed.
+
+1. Explanation:
+    > Your questions about vocabulary, such as 'What is the meaning of faintest?', showed your engagement and desire to understand better.
+
+#### Grammar:
+1. You said: "Have you told me you have the problem with the bad bugs last week?"
+    > Suggestion: "Did you tell me you had a problem with the bad bugs last week?"
+    > Explanation: The sentence mixes present perfect and past tense incorrectly.
+
+1. You said: "I think it's worse than working, properly working."
+    > Suggestion: "I think it's worse than working properly."
+    > Explanation: The adverb 'properly' is misplaced and should modify the verb directly.
+
+1. You said: "I don't know, because you have to handle with the social skill."
+    > Suggestion: "I don't know, because you have to handle social skills."
+    > Explanation: The phrase 'handle with' is incorrect; 'handle' does not require 'with'.
+
+1. You said: "I think it's a description about what is expected for this form."
+    > Suggestion: "I think it's a description of what is expected for this form."
+    > Explanation: The phrase 'description about' should be 'description of'.
+
+### Additional class insights:
+#### Vocabulary learned:
+1. **faintest**: very weak, barely perceptible - "haven't the faintest idea" = don't know anything
+2. **wireframe**: basic structural design of a webpage/app (better than "prototype")
+3. **questionnaire**: form designed to collect facts or opinions
+4. **specifications**: detailed requirements or descriptions
+5. **NPS (Net Promoter Score)**: customer satisfaction measurement
+6. **bright idea**: smart/good idea (often used sarcastically)
+7. **rough idea**: basic, not fully developed concept
+8. **big idea**: main concept or overall plan
+9. **introspective**: looking inward, self-reflective
+10. **brace yourself**: prepare mentally for something difficult
+
+#### Pronunciation practice needed:
+1. **questionnaire**: /ˌkwes.tʃəˈneər/ - stress on final syllable
+2. **faintest**: /ˈfeɪn.tɪst/ - clear 'ai' sound
+3. **specifications**: /ˌspes.ɪ.fɪˈkeɪ.ʃənz/ - long word with multiple syllables
+
+#### Communication strengths identified:
+1. Good self-correction awareness ("bad bugs" → bed bugs)
+2. Effective use of technical examples (web forms, submit buttons)
+3. Strong understanding of client-business relationships
+4. Good engagement with vocabulary clarification requests
+5. Able to discuss abstract concepts like meeting fatigue
+
+#### Areas for improvement:
+1. **verb tense mixing**: "Have you told me you have" → consistent past tense needed
+2. **preposition errors**: "handle with social skills" → "handle social skills"
+3. **adverb placement**: "working, properly working" → "working properly"
+4. **article usage**: "description about" → "description of"
+5. **phrase construction**: need to avoid unnecessary prepositions
+
+#### Class activities completed:
+1. Discussed meeting fatigue and social skills challenges for engineers
+2. Learned vocabulary related to client communication and project planning
+3. Analyzed different types of "ideas" (rough, clear, bright, big, faintest)
+4. Practiced infinitive clause patterns (verb + infinitive, verb + noun + infinitive)
+5. Examined project questionnaire design and budget considerations
+
+#### Next steps:
+1. Practice consistent verb tense usage in past narratives
+2. Review preposition rules (especially with "handle," "description")
+3. Work on adverb placement for natural flow
+4. Continue studying infinitive patterns
+5. Practice using new "idea" vocabulary in context
+
+#### Teacher's assessment:
+- **Strength**: excellent technical vocabulary and real-world business examples
+- **Progress**: good engagement with clarification requests, improved coherence
+- **Focus area**: verb tense consistency and preposition accuracy
+- **Recommendation**: continue practicing grammar patterns while maintaining strong vocabulary development
+
+---
+
 ## Class 4 | 29 july 2025
 
 ### Cambly ai feedback:
