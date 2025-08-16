@@ -1,5 +1,113 @@
 # Cambly diary
 
+## Class 6 | 12 August 2025
+
+### Cambly ai feedback:
+#### Other:
+1. What you're doing well:
+    > You effectively engaged in the conversation.
+
+1. Explanation:
+    > You asked clarifying questions and provided relevant examples, which enhanced the overall interaction and demonstrated your comprehension.
+
+#### Grammar:
+1. You said: "It's guaranteed the access to private network from the company."
+    > Suggestion: "It guarantees access to a private network from the company."
+    > Explanation: The article 'the' is incorrectly used before 'access' and 'private network'.
+
+1. You said: "I have some problem with this word."
+    > Suggestion: "I have a problem with this word."
+    > Explanation: The article 'some' is incorrectly used before 'problem'.
+
+1. You said: "And keep having problems."
+    > Suggestion: "And he keeps having problems."
+    > Explanation: The verb 'keep' is incorrectly used in this context.
+
+1. You said: "Because we have to open a ticket, wait for the answer, and you have to set the priority."
+    > Suggestion: "Because we have to open a ticket, wait for the answer, and set the priority."
+    > Explanation: The pronoun 'you' is inconsistent with 'we'.
+
+1. You said: "And you never exit of that."
+    > Suggestion: "And you never exit from that."
+    > Explanation: The phrase 'exit of' is incorrect.
+
+#### Vocabulary:
+1. You said: "Because of that, I said that that is an economic problem because the company saw in the technology a way to expand less money."
+    > Suggestion: "Because of that, I said that this is an economic problem because the company saw technology as a way to spend less money."
+    > Explanation: The phrase 'expand less money' is incorrect.
+
+### Additional class insights:
+#### Vocabulary learned:
+1. **maintenance**: /ˈmeɪntənəns/ - regular care and repair of equipment
+2. **verification code**: security code sent to verify identity
+3. **VPN (Virtual Private Network)**: secure connection to private company network
+4. **PeopleSoft**: HR software system for employee management
+5. **ticket system**: method for tracking and managing IT support requests
+6. **bureaucratic**: involving excessive administrative procedures
+7. **intonation**: rise and fall of voice pitch when speaking
+8. **locked out**: unable to access a system due to authentication issues
+9. **redirect**: send to a different person or department
+10. **fallible**: capable of making mistakes
+11. **resilient**: able to recover from difficulties
+12. **empathic**: showing understanding of others' feelings
+13. **infiltrate**: gradually enter and affect something
+14. **socially inept**: lacking social skills
+15. **emotional intelligence**: ability to understand and manage emotions
+
+#### Pronunciation practice needed:
+1. **maintenance**: /ˈmeɪntənəns/ - not "maintePnance"
+2. **check**: /tʃɛk/ - clear "ch" sound, not "sh"
+3. **three**: /θriː/ - final number intonation should go down
+4. **zero**: preferred over "oh" for numbers (except phone numbers)
+5. **locked out**: /lɒkt aʊt/ - not "log it out"
+
+#### Communication strengths identified:
+1. **Cause and effect comprehension**: Correctly identified green (causes), red (effects), and bold (connectors)
+2. **Technical explanations**: Effectively explained VPN purpose and security layers
+3. **Real-world examples**: Good use of workplace scenarios (maintenance, mouse charging)
+4. **Cultural insights**: Shared Brazilian bot law knowledge
+5. **Deep conversation engagement**: Participated meaningfully in AI/technology discussion
+6. **Problem-solving discussion**: Analyzed bureaucratic vs. direct communication methods
+
+#### Areas for improvement:
+1. **Article usage**: "the access" → "access", "some problem" → "a problem"
+2. **Preposition accuracy**: "exit of" → "exit from", "expand money" → "spend money"
+3. **Pronoun consistency**: Mixing "we" and "you" in same context
+4. **Verb forms**: "keep having" → "keeps having" (subject-verb agreement)
+5. **Word choice precision**: "expand less money" → "spend less money"
+6. **Number pronunciation**: Practice downward intonation for final digits
+
+#### Class activities completed:
+1. **Number reading practice**: Learned proper intonation for final digits
+2. **Reading comprehension**: Paolo's IT problems scenario
+3. **Cause and effect analysis**: Identified connectors (because, since, so)
+4. **Role-play exercise**: HR ticket resolution conversation
+5. **Workplace problem discussion**: VPN issues and IT support processes
+6. **Deep cultural conversation**: AI impact on human relationships and social skills
+
+#### Next steps:
+1. Practice consistent article usage with countable/uncountable nouns
+2. Review preposition rules (especially "exit from" vs "exit of")
+3. Work on pronoun consistency within sentences
+4. Continue practicing cause-and-effect sentence structures
+5. Develop more precise vocabulary for describing economic concepts
+6. Practice number pronunciation with proper final intonation
+
+#### Teacher's assessment:
+- **Strength**: excellent technical knowledge and ability to engage in complex social topics
+- **Progress**: good comprehension of cause-and-effect relationships, improved reading fluency
+- **Focus area**: article usage, preposition accuracy, and word choice precision
+- **Recommendation**: continue practicing workplace scenarios while working on grammatical consistency
+
+#### Conversation highlights:
+- **Technical discussion**: Comprehensive explanation of VPN security benefits and drawbacks
+- **Cultural exchange**: Brazilian bot law vs. Mexican customer service experiences
+- **Social commentary**: Thoughtful analysis of AI impact on human emotional intelligence
+- **Workplace relatability**: Strong connection between class content and real job experiences
+- **Global perspective**: Insights into how technology affects different cultures and relationships
+
+---
+
 ## Class 5 | 5 August 2025
 
 ### Cambly ai feedback:
