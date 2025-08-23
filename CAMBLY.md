@@ -1,5 +1,100 @@
 # Cambly diary
 
+## Class 7 | 19 August 2025
+
+### Cambly ai feedback:
+#### Other:
+1. What you're doing well:
+    > You effectively engaged in a detailed discussion.
+
+1. Explanation:
+    > Your ability to discuss various English certifications and their implications for job applications shows your engagement and understanding of the topic.
+
+#### Grammar:
+1. You said: "I'm following some videos on YouTube and to apply for some jobs, they require some certifications,"
+    > Suggestion: "I'm following some videos on YouTube, and to apply for some jobs, I need to obtain some certifications."
+    > Explanation: The structure of the sentence is inconsistent; 'to apply' should match the previous verb form.
+
+1. You said: "the scores change because of the, depends of the level of communication you have to do"
+    > Suggestion: "the scores change because it depends on the level of communication you have to do."
+    > Explanation: The phrase 'depends of' is incorrect; it should be 'depends on'.
+
+1. You said: "I think the ETS is the company that also do the TOEIC test too."
+    > Suggestion: "I think the ETS is the company that also does the TOEIC test too."
+    > Explanation: The verb 'do' should be 'does' to agree with the singular subject 'company'.
+
+1. You said: "the first days, we just say to walk and talk, and that was fun."
+    > Suggestion: "the first days, we just used to walk and talk, and that was fun."
+    > Explanation: The verb 'say' should be 'used' to match the context.
+
+### Additional class insights:
+#### Vocabulary learned:
+1. **certifications**: official documents proving qualifications or skills
+2. **TOEFL**: Test of English as a Foreign Language (scored out of 120, need 70+ to pass)
+3. **IELTS**: International English Language Testing System (focuses on speaking/communication)
+4. **TOEIC**: Test of English for International Communication (good for working abroad)
+5. **BULETs**: Business Language Testing Service (for finance/legal professionals)
+6. **ETS**: Educational Testing Service (official test provider)
+7. **proficiency exam**: test that measures language ability level
+8. **examination center**: official location for taking standardized tests
+9. **inflation**: general increase in prices and fall in purchasing value of money
+10. **de-dollarization**: process of reducing reliance on US dollar in international trade
+11. **performative**: done for show rather than genuine purpose
+12. **curated**: carefully selected and organized
+13. **merchandise**: treating people like objects to be bought/sold
+14. **bandwidth**: capacity to deal with situations (emotional/mental)
+15. **intimacy**: close personal relationship with deep understanding
+16. **authenticity**: being genuine and true to oneself
+17. **monogamy**: having only one romantic partner
+18. **non-monogamy**: having multiple romantic partners
+19. **resilient**: ability to recover from difficulties
+20. **dopamine addicted**: dependent on quick pleasure/reward chemicals
+
+#### Communication strengths identified:
+1. **Topic initiation**: Successfully introduced discussion about English certifications
+2. **Professional context**: Good understanding of job market requirements for English skills
+3. **Personal storytelling**: Shared meaningful personal experiences (meeting wife, work life)
+4. **Cultural insights**: Provided valuable information about Brazilian cost of living
+5. **Deep conversation engagement**: Participated in complex discussions about relationships and society
+6. **Empathy and understanding**: Showed good comprehension of complex social issues
+
+#### Areas for improvement:
+1. **Sentence structure**: "I'm following videos and to apply for jobs" → parallel structure needed
+2. **Preposition accuracy**: "depends of" → "depends on" (recurring issue from previous classes)
+3. **Subject-verb agreement**: "company do" → "company does" (singular subject needs singular verb)
+4. **Verb choice**: "say to walk" → "used to walk" (past habit expression)
+5. **Article usage**: Continue working on "a/an/the" placement
+
+#### Class activities completed:
+1. **Certification discussion**: Learned about TOEFL, IELTS, TOEIC requirements and scoring
+2. **Job market analysis**: Discussed English certification requirements for Brazilian job seekers
+3. **Cost of living comparison**: Explained Brazilian economics and living expenses
+4. **Personal relationship storytelling**: Shared how he met his wife at work
+5. **Social commentary**: Deep discussion about modern dating, authenticity, and technology's impact
+6. **Cultural exchange**: Compared Brazilian and global economic situations
+
+#### Next steps:
+1. Focus on preposition usage (especially "depends on" vs "depends of")
+2. Practice parallel sentence structure with multiple clauses
+3. Continue working on subject-verb agreement with singular subjects
+4. Study past habit expressions ("used to" vs other constructions)
+5. Prepare for actual certification exams based on class discussion
+
+#### Teacher's assessment:
+- **Strength**: excellent ability to engage in complex personal and social topics
+- **Progress**: strong professional vocabulary development, good cultural awareness
+- **Focus area**: sentence structure consistency and preposition accuracy
+- **Recommendation**: continue practicing complex conversation topics while focusing on grammatical precision
+
+#### Conversation highlights:
+- **Professional development**: Comprehensive discussion of English certification options and requirements
+- **Personal sharing**: Meaningful story about meeting his wife and building their relationship
+- **Economic awareness**: Insightful analysis of Brazilian inflation and global economic impacts
+- **Social commentary**: Thoughtful discussion about modern dating challenges and authenticity
+- **Cultural perspective**: Valuable insights into Brazilian work culture and family responsibilities
+
+---
+
 ## Class 6 | 12 August 2025
 
 ### Cambly ai feedback:
