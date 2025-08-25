@@ -64,41 +64,58 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 ## Detailed Verb System
 
 ### Verb Tenses
- - **Simple Present**: I work, you play
- - **Simple Past**: I worked, you played
- - **Simple Future**: I will work, you will play
- - **Present Continuous**: I am working
- - **Past Continuous**: I was working
- - **Future Continuous**: I will be working
- - **Present Perfect**: I have worked
- - **Past Perfect**: I had worked
- - **Future Perfect**: I will have worked
- - **Present Perfect Continuous**: I have been working
- - **Past Perfect Continuous**: I had been working
- - **Future Perfect Continuous**: I will have been working
+- **Simple Present**: Describes habitual actions or general truths.
+  - *Examples*: I work every day. She plays soccer on weekends.
+- **Simple Past**: Describes actions completed in the past.
+  - *Examples*: I worked yesterday. They played a great game.
+- **Simple Future**: Describes actions that will happen in the future.
+  - *Examples*: I will work tomorrow. She will play in the tournament.
+- **Present Continuous**: Describes actions happening right now or ongoing.
+  - *Examples*: I am working on a project. They are playing outside.
+- **Past Continuous**: Describes actions that were ongoing in the past.
+  - *Examples*: I was working when you called. They were playing while it rained.
+- **Future Continuous**: Describes actions that will be ongoing in the future.
+  - *Examples*: I will be working at 5 PM. She will be playing during the event.
+- **Present Perfect**: Describes actions completed at an unspecified time or that started in the past and continue to the present.
+  - *Examples*: I have worked here for five years. She has played the piano since childhood.
+- **Past Perfect**: Describes actions completed before another action in the past.
+  - *Examples*: I had worked there before moving. They had played before it started raining.
+- **Future Perfect**: Describes actions that will be completed before a specific time in the future.
+  - *Examples*: I will have worked 10 hours by then. She will have played all her favorite songs.
+- **Present Perfect Continuous**: Describes actions that started in the past and are still ongoing.
+  - *Examples*: I have been working all day. They have been playing since morning.
+- **Past Perfect Continuous**: Describes actions that were ongoing before another action in the past.
+  - *Examples*: I had been working for hours before the meeting. She had been playing for an hour when I arrived.
+- **Future Perfect Continuous**: Describes actions that will be ongoing up until a specific time in the future.
+  - *Examples*: I will have been working for 8 hours by 6 PM. They will have been playing for two hours by the time we join.
 
 ### Verb Forms
- - **Base form**: work
- - **-ing form (present participle/gerund)**: working
- - **-ed form (past participle)**: worked
+- **Base form**: The simplest form of the verb.
+  - *Example*: work, play
+- **-ing form (present participle/gerund)**: Used for continuous tenses or as a noun.
+  - *Example*: working, playing
+- **-ed form (past participle)**: Used for past tenses or perfect tenses.
+  - *Example*: worked, played
 
 ### Conjugation
- - 1st person: I work
- - 2nd person: You work
- - 3rd person: He/She/It works
+- **1st person**: I work, We work
+- **2nd person**: You work
+- **3rd person**: He/She/It works, They work
 
 ### Subject-Verb Agreement
- - The verb changes to match the subject (He works, They work)
+- The verb changes to match the subject.
+  - *Examples*: He works hard. They work together.
 
 ### Auxiliary (Helping) Verbs
- - **To be**: am, is, are, was, were
- - **To have**: have, has, had
- - **To do**: do, does, did
+- **To be**: am, is, are, was, were
+- **To have**: have, has, had
+- **To do**: do, does, did
+  - *Examples*: I am working. She has finished. They did not go.
 
 ### Modal Verbs
- - can, could, will, would, shall, should, must, may, might
- - *Example*: I can swim. You should study.
+- Express ability, possibility, permission, or obligation.
+  - *Examples*: I can swim. You should study. They might come.
 
 ### Phrasal Verbs
- - Verb + preposition/adverb (give up, turn out, carry on)
- - *Example*: She gave up smoking. It turned out well.
+- Verb + preposition/adverb to create a new meaning.
+  - *Examples*: She gave up smoking. It turned out well. Carry on with your work.
