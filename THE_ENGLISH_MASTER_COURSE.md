@@ -8,52 +8,52 @@
 ## 📚 **PART I: FOUNDATIONS** (Sections 1-3)
 
 ### Getting Started & Overview
-- [ ] **Section 1:** Getting Started
-- [ ] **Section 2:** How English Works - A Quick Review
-- [ ] **Section 3:** English Grammar Section
+- [X] **Section 1:** Getting Started
+- [X] **Section 2:** How English Works - A Quick Review
+- [X] **Section 3:** English Grammar Section
 
 ---
 
 ## 🔥 **PART II: VERB SYSTEM** (Sections 4-32)
 
 ### A. Basic Verb Tenses (Sections 4-12)
-- [ ] **Section 4:** Verb Tenses *(Overview)*
-- [ ] **Section 5:** Simple Present Tense
-- [ ] **Section 6:** Verb Conjugation (1st, 2nd, 3rd Person)
-- [ ] **Section 7:** Subject-Verb Agreement
-- [ ] **Section 8:** Simple Past Tense
-- [ ] **Section 9:** Simple Future Tense
-- [ ] **Section 10:** Present Continuous Tense
-- [ ] **Section 11:** Past Continuous Tense
-- [ ] **Section 12:** Future Continuous Tense
+- [X] **Section 4:** Verb Tenses *(Overview)*
+- [X] **Section 5:** Simple Present Tense
+- [X] **Section 6:** Verb Conjugation (1st, 2nd, 3rd Person)
+- [X] **Section 7:** Subject-Verb Agreement
+- [X] **Section 8:** Simple Past Tense
+- [X] **Section 9:** Simple Future Tense
+- [X] **Section 10:** Present Continuous Tense
+- [X] **Section 11:** Past Continuous Tense
+- [X] **Section 12:** Future Continuous Tense
 
 ### B. Participles (Sections 13-15)
-- [ ] **Section 13:** The Present Participle (-ing)
-- [ ] **Section 14:** The Gerund (-ing)
-- [ ] **Section 15:** Past Participle (-ed)
+- [X] **Section 13:** The Present Participle (-ing)
+- [X] **Section 14:** The Gerund (-ing)
+- [X] **Section 15:** Past Participle (-ed)
 
 ### C. Perfect Tenses (Sections 16-21)
-- [ ] **Section 16:** Present Perfect Tense
-- [ ] **Section 17:** Past Perfect Tense
-- [ ] **Section 18:** Future Perfect Tense
-- [ ] **Section 19:** Present Perfect Continuous Tense
-- [ ] **Section 20:** Past Perfect Continuous Tense
-- [ ] **Section 21:** Future Perfect Continuous Tense
+- [X] **Section 16:** Present Perfect Tense
+- [X] **Section 17:** Past Perfect Tense
+- [X] **Section 18:** Future Perfect Tense
+- [X] **Section 19:** Present Perfect Continuous Tense
+- [X] **Section 20:** Past Perfect Continuous Tense
+- [X] **Section 21:** Future Perfect Continuous Tense
 
 ### D. Auxiliary & Modal Verbs (Sections 22-28)
-- [ ] **Section 22:** Helping (Auxiliary) and Modal Verbs *(Overview)*
-- [ ] **Section 23:** Helping Verb - To Be
-- [ ] **Section 24:** Helping Verb - To Do, To Have
-- [ ] **Section 25:** Modal Verb - Can, Could
-- [ ] **Section 26:** Modal Verb - Will, Would
-- [ ] **Section 27:** Modal Verb - Shall, Should
-- [ ] **Section 28:** Modal Verb - Must, May, Might
+- [X] **Section 22:** Helping (Auxiliary) and Modal Verbs *(Overview)*
+- [X] **Section 23:** Helping Verb - To Be
+- [X] **Section 24:** Helping Verb - To Do, To Have
+- [X] **Section 25:** Modal Verb - Can, Could
+- [X] **Section 26:** Modal Verb - Will, Would
+- [X] **Section 27:** Modal Verb - Shall, Should
+- [X] **Section 28:** Modal Verb - Must, May, Might
 
 ### E. Phrasal Verbs (Sections 29-32)
-- [ ] **Section 29:** Phrasal Verbs *(Introduction)*
-- [ ] **Section 30:** Phrasal Verbs - Carry on, Put Off
-- [ ] **Section 31:** Phrasal Verbs - Turn Down, Break Up
-- [ ] **Section 32:** Phrasal Verbs - Give Up, Turn Out
+- [X] **Section 29:** Phrasal Verbs *(Introduction)*
+- [X] **Section 30:** Phrasal Verbs - Carry on, Put Off
+- [X] **Section 31:** Phrasal Verbs - Turn Down, Break Up
+- [X] **Section 32:** Phrasal Verbs - Give Up, Turn Out
 
 ---
 
