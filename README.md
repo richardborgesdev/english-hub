@@ -1,7 +1,7 @@
 # english-hub
 
 ## Tasks
-- [ ] Duolingo | Finish all legendary levels
+- [ ] Duolingo | Finish at 2500 days
 - [X] Busuu | Finish all extra courses
 - [ ] Busuu | Finish main course
 - [ ] Create my own grammar review
