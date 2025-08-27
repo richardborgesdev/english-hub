@@ -29,34 +29,23 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - **Examples**: `big`, `blue`, `interesting`
 
 ### 6. Adverbs
- - **Function**: Describe or modify verbs, adjectives, or other adverbs. They often tell *how*, *when*, or *where*.
- - **Examples**: `quickly`, `very`, `often`, `here`
- - **Example Sentence**: She runs **quickly**. He is **very** smart.
 - **Function**: Describe or modify verbs, adjectives, or other adverbs. They often tell *how*, *when*, or *where*.
 - **Examples**: `quickly`, `very`, `often`, `here`
 - **Example Sentence**: She runs **quickly**. He is **very** smart.
 
 ### 7. Determiners
- - **Function**: Introduce nouns and specify which one(s).
- - **Examples**: `a`, `an`, `the`, `this`, `some`, `every`
 - **Function**: Introduce nouns and specify which one(s).
 - **Examples**: `a`, `an`, `the`, `this`, `some`, `every`
 
 ### 8. Prepositions
- - **Function**: Show relationships between nouns and other words (e.g., location, time, direction).
- - **Examples**: `in`, `on`, `at`, `by`, `with`, `under`
 - **Function**: Show relationships between nouns and other words (e.g., location, time, direction).
 - **Examples**: `in`, `on`, `at`, `by`, `with`, `under`
 
 ### 9. Conjunctions
- - **Function**: Connect words, phrases, or clauses.
- - **Examples**: `and`, `but`, `or`, `because`, `although`
 - **Function**: Connect words, phrases, or clauses.
 - **Examples**: `and`, `but`, `or`, `because`, `although`
 
 ### 10. Interjections
- - **Function**: Express strong emotion. They are often followed by an exclamation mark.
- - **Examples**: `Wow!`, `Ouch!`, `Hey!`, `Oh no!`
 - **Function**: Express strong emotion. They are often followed by an exclamation mark.
 - **Examples**: `Wow!`, `Ouch!`, `Hey!`, `Oh no!`
 
@@ -119,3 +108,55 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 ### Phrasal Verbs
 - Verb + preposition/adverb to create a new meaning.
   - *Examples*: She gave up smoking. It turned out well. Carry on with your work.
+
+---
+
+## Detailed Noun & Pronoun System
+
+### Types of Nouns
+- **Common Nouns**: General names for people, places, things, or ideas.
+  - *Examples*: teacher, city, book, love
+- **Proper Nouns**: Specific names (always capitalized).
+  - *Examples*: Richard, London, Microsoft, Christmas
+- **Concrete Nouns**: Things you can touch or see.
+  - *Examples*: table, dog, car, apple
+- **Abstract Nouns**: Ideas, feelings, or concepts you cannot touch.
+  - *Examples*: happiness, freedom, knowledge, courage
+- **Countable Nouns**: Can be counted (have singular/plural forms).
+  - *Examples*: book/books, child/children, mouse/mice
+- **Uncountable Nouns**: Cannot be counted (no plural form).
+  - *Examples*: water, music, advice, information
+- **Collective Nouns**: Groups of people, animals, or things.
+  - *Examples*: team, family, flock, committee
+- **Material Nouns**: Substances or materials.
+  - *Examples*: gold, wood, plastic, cotton
+- **Compound Nouns**: Two or more words combined.
+  - *Examples*: basketball, mother-in-law, toothbrush
+
+### Possessive Nouns
+- **Singular**: Add 's to show ownership.
+  - *Examples*: The cat's toy. Richard's book.
+- **Plural ending in 's'**: Add only an apostrophe.
+  - *Examples*: The cats' toys. The students' homework.
+- **Plural not ending in 's'**: Add 's.
+  - *Examples*: The children's playground. The men's room.
+
+### Types of Pronouns
+- **Subject Pronouns**: Used as the subject of a sentence.
+  - *Examples*: I, you, he, she, it, we, they
+  - *Usage*: **I** am studying. **They** are playing.
+- **Object Pronouns**: Used as the object of a verb or preposition.
+  - *Examples*: me, you, him, her, it, us, them
+  - *Usage*: She called **me**. Give it to **them**.
+- **Possessive Pronouns**: Show ownership (stand alone).
+  - *Examples*: mine, yours, his, hers, its, ours, theirs
+  - *Usage*: The book is **mine**. The decision is **yours**.
+- **Possessive Adjectives**: Show ownership (before nouns).
+  - *Examples*: my, your, his, her, its, our, their
+  - *Usage*: **My** car is blue. **Their** house is big.
+- **Reflexive Pronouns**: Refer back to the subject.
+  - *Examples*: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
+  - *Usage*: I taught **myself** to play guitar. They prepared **themselves** for the exam.
+- **Demonstrative Pronouns**: Point to specific things.
+  - *Examples*: this, that, these, those
+  - *Usage*: **This** is my favorite book. **Those** are beautiful flowers.
