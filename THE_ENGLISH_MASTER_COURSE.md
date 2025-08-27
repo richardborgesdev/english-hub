@@ -60,20 +60,20 @@
 ## 📝 **PART III: NOUNS & PRONOUNS** (Sections 33-44)
 
 ### Noun Types & Pronouns (Sections 33-39)
-- [ ] **Section 33:** Nouns and Pronouns *(Overview)*
-- [ ] **Section 34:** Common Nouns
-- [ ] **Section 35:** Proper Nouns
-- [ ] **Section 36:** Subject Pronouns
-- [ ] **Section 37:** Object Pronouns
-- [ ] **Section 38:** Possessive Nouns
-- [ ] **Section 39:** Possessive Pronouns
+- [X] **Section 33:** Nouns and Pronouns *(Overview)*
+- [X] **Section 34:** Common Nouns
+- [X] **Section 35:** Proper Nouns
+- [X] **Section 36:** Subject Pronouns
+- [X] **Section 37:** Object Pronouns
+- [X] **Section 38:** Possessive Nouns
+- [X] **Section 39:** Possessive Pronouns
 
 ### Advanced Noun Categories (Sections 40-44)
-- [ ] **Section 40:** Concrete Nouns
-- [ ] **Section 41:** Abstract Nouns
-- [ ] **Section 42:** Material and Compound Nouns
-- [ ] **Section 43:** Countable VS Uncountable Nouns
-- [ ] **Section 44:** Collective Nouns
+- [X] **Section 40:** Concrete Nouns
+- [X] **Section 41:** Abstract Nouns
+- [X] **Section 42:** Material and Compound Nouns
+- [X] **Section 43:** Countable VS Uncountable Nouns
+- [X] **Section 44:** Collective Nouns
 
 ---
 
