@@ -160,3 +160,31 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - **Demonstrative Pronouns**: Point to specific things.
   - *Examples*: this, that, these, those
   - *Usage*: **This** is my favorite book. **Those** are beautiful flowers.
+
+---
+
+## Articles & Demonstratives
+
+### Articles
+- **Function**: Introduce and specify nouns; indicate whether something is specific or general.
+- **Types**:
+  - **Indefinite Articles**: `a`, `an` (used for non-specific nouns)
+    - *Examples*: a book, an apple
+  - **Definite Article**: `the` (used for specific nouns)
+    - *Examples*: the book, the apple
+- **Usage Tips**:
+  - Use `a` before words that start with a consonant sound: a dog, a university
+  - Use `an` before words that start with a vowel sound: an umbrella, an hour
+  - Use `the` when referring to something specific or previously mentioned: the car we bought
+
+### Demonstratives
+- **Function**: Point to specific nouns and show their position (near or far, singular or plural).
+- **Words**: `this`, `that`, `these`, `those`
+  - **This**: singular, near
+    - *Example*: This book is interesting.
+  - **That**: singular, far
+    - *Example*: That car is fast.
+  - **These**: plural, near
+    - *Example*: These cookies are delicious.
+  - **Those**: plural, far
+    - *Example*: Those houses are old.
