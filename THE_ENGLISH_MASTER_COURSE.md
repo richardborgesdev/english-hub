@@ -78,9 +78,9 @@
 ---
 
 ## 🎯 **PART IV: ARTICLES & DEMONSTRATIVES** (Sections 45-47)
-- [ ] **Section 45:** Articles and Demonstratives *(Overview)*
-- [ ] **Section 46:** A, An, The
-- [ ] **Section 47:** This, That, These, Those
+- [X] **Section 45:** Articles and Demonstratives *(Overview)*
+- [X] **Section 46:** A, An, The
+- [X] **Section 47:** This, That, These, Those
 
 ---
 
