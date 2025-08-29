@@ -85,15 +85,15 @@
 ---
 
 ## ✨ **PART V: ADJECTIVES** (Sections 48-56)
-- [ ] **Section 48:** Adjectives *(Introduction)*
-- [ ] **Section 49:** Adjectives and Adverbs - An Overview
-- [ ] **Section 50:** Descriptive Adjectives
-- [ ] **Section 51:** Proper Adjectives
-- [ ] **Section 52:** Possessive Adjectives
-- [ ] **Section 53:** Comparative Adjectives
-- [ ] **Section 54:** Superlative Adjectives
-- [ ] **Section 55:** Limiting Adjectives
-- [ ] **Section 56:** Pronominal Adjectives
+- [X] **Section 48:** Adjectives *(Introduction)*
+- [X] **Section 49:** Adjectives and Adverbs - An Overview
+- [X] **Section 50:** Descriptive Adjectives
+- [X] **Section 51:** Proper Adjectives
+- [X] **Section 52:** Possessive Adjectives
+- [X] **Section 53:** Comparative Adjectives
+- [X] **Section 54:** Superlative Adjectives
+- [X] **Section 55:** Limiting Adjectives
+- [X] **Section 56:** Pronominal Adjectives
 
 ---
 
