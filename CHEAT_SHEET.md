@@ -188,3 +188,39 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
     - *Example*: These cookies are delicious.
   - **Those**: plural, far
     - *Example*: Those houses are old.
+
+---
+
+## Adjectives
+
+### What are Adjectives?
+- **Function**: Describe, modify, or give more information about nouns and pronouns.
+- **Examples**: big, blue, interesting, beautiful, tall
+- **Usage**: The tall man. A beautiful day. Her blue car.
+
+### Types of Adjectives
+- **Descriptive Adjectives**: Describe qualities or states.
+  - *Examples*: happy child, old house, delicious food
+- **Proper Adjectives**: Derived from proper nouns; always capitalized.
+  - *Examples*: American culture, Shakespearean drama
+- **Possessive Adjectives**: Show ownership; placed before nouns.
+  - *Examples*: my book, your idea, their house
+- **Comparative Adjectives**: Compare two things; often end in -er or use "more".
+  - *Examples*: taller, smarter, more beautiful
+  - *Usage*: She is taller than her brother. This book is more interesting.
+- **Superlative Adjectives**: Compare three or more things; often end in -est or use "most".
+  - *Examples*: tallest, smartest, most beautiful
+  - *Usage*: He is the tallest in the class. This is the most delicious cake.
+- **Limiting Adjectives**: Restrict or specify nouns (quantity, number, etc.).
+  - *Examples*: some people, few options, every student
+- **Pronominal Adjectives**: Words that act as adjectives but are also pronouns.
+  - *Examples*: this book, those shoes, each person
+
+### Adjective Order
+- **General Rule**: Quantity > Opinion > Size > Age > Shape > Color > Origin > Material > Purpose > Noun
+  - *Example*: Three beautiful large old round blue Italian wooden dining tables
+
+### Adjective Usage Tips
+- Adjectives usually come before the noun: a red apple
+- Some adjectives follow the verb: The apple is red
+- Use "more" and "most" for longer adjectives: more expensive, most comfortable
