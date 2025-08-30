@@ -8,83 +8,157 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 
 ### 1. Nouns
 - **Function**: Name people, places, things, or ideas.
-- **Examples**: `cat`, `city`, `happiness`, `Richard`
+- **Examples**:
+  1. cat
+  2. city
+  3. happiness
+  4. Richard
+- **Usage Example**:
+  1. The cat sat on the mat.
 
 ### 2. Pronouns
 - **Function**: Replace nouns to avoid repetition.
-- **Types**: Subject (`I`, `he`), Object (`me`, `us`), Possessive (`my`, `their`).
-- **Example Sentence**: **She** gave **him** **her** book.
+- **Types**:
+  1. Subject (I, he)
+  2. Object (me, us)
+  3. Possessive (my, their)
+- **Usage Example**:
+  1. She gave him her book.
 
 ### 3. Verbs
 - **Function**: Show actions or states of being. They change form based on tense and subject.
-- **Examples**: `run`, `is`, `have`, `study`
+- **Examples**:
+  1. run
+  2. is
+  3. have
+  4. study
+- **Usage Example**:
+  1. He runs every morning.
 
 ### 4. Objects
 - **Function**: Receive the action of the verb.
-- **Types**: Direct (the thing being acted on), Indirect (the recipient of the direct object).
-- **Example Sentence**: She gave **him** (*indirect*) **the book** (*direct*).
+- **Types**:
+  1. Direct (the thing being acted on)
+  2. Indirect (the recipient of the direct object)
+- **Usage Example**:
+  1. She gave him (indirect) the book (direct).
 
 ### 5. Adjectives
 - **Function**: Describe or modify nouns.
-- **Examples**: `big`, `blue`, `interesting`
+- **Examples**:
+  1. big
+  2. blue
+  3. interesting
+- **Usage Example**:
+  1. The big blue car is interesting.
 
 ### 6. Adverbs
 - **Function**: Describe or modify verbs, adjectives, or other adverbs. They often tell *how*, *when*, or *where*.
-- **Examples**: `quickly`, `very`, `often`, `here`
-- **Example Sentence**: She runs **quickly**. He is **very** smart.
+- **Examples**:
+  1. quickly
+  2. very
+  3. often
+  4. here
+- **Usage Example**:
+  1. She runs quickly.
+  2. He is very smart.
 
 ### 7. Determiners
 - **Function**: Introduce nouns and specify which one(s).
-- **Examples**: `a`, `an`, `the`, `this`, `some`, `every`
+- **Examples**:
+  1. a
+  2. an
+  3. the
+  4. this
+  5. some
+  6. every
+- **Usage Example**:
+  1. This apple is delicious.
 
 ### 8. Prepositions
 - **Function**: Show relationships between nouns and other words (e.g., location, time, direction).
-- **Examples**: `in`, `on`, `at`, `by`, `with`, `under`
+- **Examples**:
+  1. in
+  2. on
+  3. at
+  4. by
+  5. with
+  6. under
+- **Usage Example**:
+  1. The book is on the table.
 
 ### 9. Conjunctions
 - **Function**: Connect words, phrases, or clauses.
-- **Examples**: `and`, `but`, `or`, `because`, `although`
+- **Examples**:
+  1. and
+  2. but
+  3. or
+  4. because
+  5. although
+- **Usage Example**:
+  1. I want tea and coffee.
 
 ### 10. Interjections
 - **Function**: Express strong emotion. They are often followed by an exclamation mark.
-- **Examples**: `Wow!`, `Ouch!`, `Hey!`, `Oh no!`
+- **Examples**:
+  1. Wow!
+  2. Ouch!
+  3. Hey!
+  4. Oh no!
+- **Usage Example**:
+  1. Wow! That was amazing!
 
 ---
 ## Detailed Verb System
 
 ### Verb Tenses
 - **Simple Present**: Describes habitual actions or general truths.
-  - *Examples*: I work every day. She plays soccer on weekends.
+  1. I work every day.
+  2. She plays soccer on weekends.
 - **Simple Past**: Describes actions completed in the past.
-  - *Examples*: I worked yesterday. They played a great game.
+  1. I worked yesterday.
+  2. They played a great game.
 - **Simple Future**: Describes actions that will happen in the future.
-  - *Examples*: I will work tomorrow. She will play in the tournament.
+  1. I will work tomorrow.
+  2. She will play in the tournament.
 - **Present Continuous**: Describes actions happening right now or ongoing.
-  - *Examples*: I am working on a project. They are playing outside.
+  1. I am working on a project.
+  2. They are playing outside.
 - **Past Continuous**: Describes actions that were ongoing in the past.
-  - *Examples*: I was working when you called. They were playing while it rained.
+  1. I was working when you called.
+  2. They were playing while it rained.
 - **Future Continuous**: Describes actions that will be ongoing in the future.
-  - *Examples*: I will be working at 5 PM. She will be playing during the event.
+  1. I will be working at 5 PM.
+  2. She will be playing during the event.
 - **Present Perfect**: Describes actions completed at an unspecified time or that started in the past and continue to the present.
-  - *Examples*: I have worked here for five years. She has played the piano since childhood.
+  1. I have worked here for five years.
+  2. She has played the piano since childhood.
 - **Past Perfect**: Describes actions completed before another action in the past.
-  - *Examples*: I had worked there before moving. They had played before it started raining.
+  1. I had worked there before moving.
+  2. They had played before it started raining.
 - **Future Perfect**: Describes actions that will be completed before a specific time in the future.
-  - *Examples*: I will have worked 10 hours by then. She will have played all her favorite songs.
+  1. I will have worked 10 hours by then.
+  2. She will have played all her favorite songs.
 - **Present Perfect Continuous**: Describes actions that started in the past and are still ongoing.
-  - *Examples*: I have been working all day. They have been playing since morning.
+  1. I have been working all day.
+  2. They have been playing since morning.
 - **Past Perfect Continuous**: Describes actions that were ongoing before another action in the past.
-  - *Examples*: I had been working for hours before the meeting. She had been playing for an hour when I arrived.
+  1. I had been working for hours before the meeting.
+  2. She had been playing for an hour when I arrived.
 - **Future Perfect Continuous**: Describes actions that will be ongoing up until a specific time in the future.
-  - *Examples*: I will have been working for 8 hours by 6 PM. They will have been playing for two hours by the time we join.
+  1. I will have been working for 8 hours by 6 PM.
+  2. They will have been playing for two hours by the time we join.
 
 ### Verb Forms
 - **Base form**: The simplest form of the verb.
-  - *Example*: work, play
+  1. work
+  2. play
 - **-ing form (present participle/gerund)**: Used for continuous tenses or as a noun.
-  - *Example*: working, playing
+  1. working
+  2. playing
 - **-ed form (past participle)**: Used for past tenses or perfect tenses.
-  - *Example*: worked, played
+  1. worked
+  2. played
 
 ### Conjugation
 - **1st person**: I work, We work
@@ -115,51 +189,78 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 
 ### Types of Nouns
 - **Common Nouns**: General names for people, places, things, or ideas.
-  - *Examples*: teacher, city, book, love
+  1. teacher
+  2. city
+  3. book
 - **Proper Nouns**: Specific names (always capitalized).
-  - *Examples*: Richard, London, Microsoft, Christmas
+  1. Richard
+  2. London
+  3. Microsoft
 - **Concrete Nouns**: Things you can touch or see.
-  - *Examples*: table, dog, car, apple
+  1. table
+  2. dog
+  3. car
 - **Abstract Nouns**: Ideas, feelings, or concepts you cannot touch.
-  - *Examples*: happiness, freedom, knowledge, courage
+  1. happiness
+  2. freedom
+  3. knowledge
 - **Countable Nouns**: Can be counted (have singular/plural forms).
-  - *Examples*: book/books, child/children, mouse/mice
+  1. book/books
+  2. child/children
+  3. mouse/mice
 - **Uncountable Nouns**: Cannot be counted (no plural form).
-  - *Examples*: water, music, advice, information
+  1. water
+  2. music
+  3. advice
 - **Collective Nouns**: Groups of people, animals, or things.
-  - *Examples*: team, family, flock, committee
+  1. team
+  2. family
+  3. flock
 - **Material Nouns**: Substances or materials.
-  - *Examples*: gold, wood, plastic, cotton
+  1. gold
+  2. wood
+  3. plastic
 - **Compound Nouns**: Two or more words combined.
-  - *Examples*: basketball, mother-in-law, toothbrush
+  1. basketball
+  2. mother-in-law
+  3. toothbrush
 
 ### Possessive Nouns
 - **Singular**: Add 's to show ownership.
-  - *Examples*: The cat's toy. Richard's book.
+  1. The cat's toy.
+  2. Richard's book.
 - **Plural ending in 's'**: Add only an apostrophe.
-  - *Examples*: The cats' toys. The students' homework.
+  1. The cats' toys.
+  2. The students' homework.
 - **Plural not ending in 's'**: Add 's.
-  - *Examples*: The children's playground. The men's room.
+  1. The children's playground.
+  2. The men's room.
 
 ### Types of Pronouns
 - **Subject Pronouns**: Used as the subject of a sentence.
-  - *Examples*: I, you, he, she, it, we, they
-  - *Usage*: **I** am studying. **They** are playing.
+  1. I
+  2. you
+  3. he
 - **Object Pronouns**: Used as the object of a verb or preposition.
-  - *Examples*: me, you, him, her, it, us, them
-  - *Usage*: She called **me**. Give it to **them**.
+  1. me
+  2. you
+  3. him
 - **Possessive Pronouns**: Show ownership (stand alone).
-  - *Examples*: mine, yours, his, hers, its, ours, theirs
-  - *Usage*: The book is **mine**. The decision is **yours**.
+  1. mine
+  2. yours
+  3. his
 - **Possessive Adjectives**: Show ownership (before nouns).
-  - *Examples*: my, your, his, her, its, our, their
-  - *Usage*: **My** car is blue. **Their** house is big.
+  1. my
+  2. your
+  3. his
 - **Reflexive Pronouns**: Refer back to the subject.
-  - *Examples*: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
-  - *Usage*: I taught **myself** to play guitar. They prepared **themselves** for the exam.
+  1. myself
+  2. yourself
+  3. himself
 - **Demonstrative Pronouns**: Point to specific things.
-  - *Examples*: this, that, these, those
-  - *Usage*: **This** is my favorite book. **Those** are beautiful flowers.
+  1. this
+  2. that
+  3. these
 
 ---
 
@@ -169,25 +270,23 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - **Function**: Introduce and specify nouns; indicate whether something is specific or general.
 - **Types**:
   - **Indefinite Articles**: `a`, `an` (used for non-specific nouns)
-    - *Examples*: a book, an apple
+    1. a book
+    2. an apple
   - **Definite Article**: `the` (used for specific nouns)
-    - *Examples*: the book, the apple
+    1. the book
+    2. the apple
 - **Usage Tips**:
-  - Use `a` before words that start with a consonant sound: a dog, a university
-  - Use `an` before words that start with a vowel sound: an umbrella, an hour
-  - Use `the` when referring to something specific or previously mentioned: the car we bought
+  1. Use `a` before words that start with a consonant sound: a dog, a university
+  2. Use `an` before words that start with a vowel sound: an umbrella, an hour
+  3. Use `the` when referring to something specific or previously mentioned: the car we bought
 
 ### Demonstratives
 - **Function**: Point to specific nouns and show their position (near or far, singular or plural).
 - **Words**: `this`, `that`, `these`, `those`
-  - **This**: singular, near
-    - *Example*: This book is interesting.
-  - **That**: singular, far
-    - *Example*: That car is fast.
-  - **These**: plural, near
-    - *Example*: These cookies are delicious.
-  - **Those**: plural, far
-    - *Example*: Those houses are old.
+  1. This book is interesting. (singular, near)
+  2. That car is fast. (singular, far)
+  3. These cookies are delicious. (plural, near)
+  4. Those houses are old. (plural, far)
 
 ---
 
@@ -200,21 +299,32 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 
 ### Types of Adjectives
 - **Descriptive Adjectives**: Describe qualities or states.
-  - *Examples*: happy child, old house, delicious food
+  1. happy child
+  2. old house
+  3. delicious food
 - **Proper Adjectives**: Derived from proper nouns; always capitalized.
-  - *Examples*: American culture, Shakespearean drama
+  1. American culture
+  2. Shakespearean drama
 - **Possessive Adjectives**: Show ownership; placed before nouns.
-  - *Examples*: my book, your idea, their house
+  1. my book
+  2. your idea
+  3. their house
 - **Comparative Adjectives**: Compare two things; often end in -er or use "more".
-  - *Examples*: taller, smarter, more beautiful
-  - *Usage*: She is taller than her brother. This book is more interesting.
+  1. taller
+  2. smarter
+  3. more beautiful
 - **Superlative Adjectives**: Compare three or more things; often end in -est or use "most".
-  - *Examples*: tallest, smartest, most beautiful
-  - *Usage*: He is the tallest in the class. This is the most delicious cake.
+  1. tallest
+  2. smartest
+  3. most beautiful
 - **Limiting Adjectives**: Restrict or specify nouns (quantity, number, etc.).
-  - *Examples*: some people, few options, every student
+  1. some people
+  2. few options
+  3. every student
 - **Pronominal Adjectives**: Words that act as adjectives but are also pronouns.
-  - *Examples*: this book, those shoes, each person
+  1. this book
+  2. those shoes
+  3. each person
 
 ### Adjective Order
 - **General Rule**: Quantity > Opinion > Size > Age > Shape > Color > Origin > Material > Purpose > Noun
@@ -224,3 +334,52 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Adjectives usually come before the noun: a red apple
 - Some adjectives follow the verb: The apple is red
 - Use "more" and "most" for longer adjectives: more expensive, most comfortable
+
+---
+
+## Adverbs
+
+### What are Adverbs?
+- **Function**: Modify verbs, adjectives, or other adverbs; tell how, when, where, or to what degree something happens.
+- **Examples**: quickly, very, often, here, always, well
+- **Usage**: She sings beautifully. He always arrives early. The dog barked loudly.
+
+### How to Form Adverbs
+- Many adverbs are formed by adding `-ly` to adjectives.
+  - *Examples*: quick → quickly, happy → happily, slow → slowly
+- Some adverbs do not follow this pattern.
+  - *Examples*: well, fast, hard, late
+
+### Types of Adverbs
+- **Adverbs of Manner**: Describe how something happens.
+  1. She speaks softly.
+  2. He runs quickly.
+- **Adverbs of Frequency**: Describe how often something happens.
+  1. always
+  2. often
+  3. sometimes
+- **Adverbs of Place**: Describe where something happens.
+  1. here
+  2. there
+  3. everywhere
+- **Adverbs of Time**: Describe when something happens.
+  1. now
+  2. then
+  3. soon
+- **Adverbs of Degree**: Describe the intensity or degree of an action, adjective, or another adverb.
+  1. very
+  2. quite
+  3. too
+- **Comparative and Superlative Adverbs**: Compare actions.
+  1. faster
+  2. more carefully
+  3. most quickly
+
+### Order of Adverbs in a Sentence
+- **General Rule**: Manner > Place > Frequency > Time
+  - *Example*: She sings beautifully (manner) in the shower (place) every morning (frequency) before breakfast (time).
+
+### Adverb Usage Tips
+- Adverbs can appear in different places in a sentence: He quickly finished his homework. Quickly, he finished his homework.
+- Not all words ending in `-ly` are adverbs (e.g., friendly is an adjective).
+- Some adverbs have the same form as adjectives: fast, hard, late.
