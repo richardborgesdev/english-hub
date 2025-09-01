@@ -383,3 +383,68 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Adverbs can appear in different places in a sentence: He quickly finished his homework. Quickly, he finished his homework.
 - Not all words ending in `-ly` are adverbs (e.g., friendly is an adjective).
 - Some adverbs have the same form as adjectives: fast, hard, late.
+
+---
+
+## Quantifiers & Determiners
+
+### What are Quantifiers & Determiners?
+- **Function**: Specify quantity, amount, or which nouns you are talking about.
+- **Examples**:
+  1. all
+  2. half
+  3. each
+  4. every
+  5. both
+  6. either
+  7. neither
+  8. few
+  9. little
+  10. a lot of
+  11. most
+  12. much
+  13. many
+  14. some
+  15. any
+  16. enough
+  17. what
+  18. rather
+  19. quite
+- **Usage Example**:
+  1. All students must attend.
+  2. I have a few friends.
+  3. There isn't much time left.
+
+### Common Quantifiers
+- **All / Half**: Refer to the whole or part of a group.
+  1. All the cookies are gone.
+  2. Half the class is absent.
+- **Each / Every**: Refer to individual members of a group.
+  1. Each student has a book.
+  2. Every day is a new opportunity.
+- **Both / Either / Neither**: Refer to two items or choices.
+  1. Both answers are correct.
+  2. You can take either road.
+  3. Neither option is good.
+- **A Few / A Little**: Refer to small quantities.
+  1. I have a few questions.
+  2. There is a little milk left.
+- **A Lot of / Most**: Refer to large quantities.
+  1. A lot of people like pizza.
+  2. Most children enjoy games.
+- **Much / Many**: Refer to quantity (uncountable/countable).
+  1. I don't have much money.
+  2. Many students passed the test.
+- **Some / Any / Enough**: Refer to indefinite or sufficient quantity.
+  1. Do you have any sugar?
+  2. I need some help.
+  3. We have enough chairs.
+- **What / Rather / Quite**: Used for emphasis or degree.
+  1. What a surprise!
+  2. It's rather cold today.
+  3. The movie was quite good.
+
+### Usage Tips
+- Use quantifiers before nouns: many books, some water, few people.
+- Some quantifiers are only used with countable nouns (many, few), others with uncountable nouns (much, little).
+- Determiners help specify which noun you mean: this book, those apples, every student.

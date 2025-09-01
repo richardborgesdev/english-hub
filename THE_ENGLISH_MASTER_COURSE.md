@@ -98,28 +98,28 @@
 ---
 
 ## 🚀 **PART VI: ADVERBS** (Sections 57-65)
-- [ ] **Section 57:** Adverbs *(Introduction)*
-- [ ] **Section 58:** How to Form Adverbs
-- [ ] **Section 59:** Adverbs of Manner
-- [ ] **Section 60:** Adverbs of Frequency
-- [ ] **Section 61:** Adverbs of Place
-- [ ] **Section 62:** Adverbs of Time
-- [ ] **Section 63:** Adverbs of Degree
-- [ ] **Section 64:** Comparative and Superlative Adverbs
-- [ ] **Section 65:** Order of Adverbs in a Sentence
+- [X] **Section 57:** Adverbs *(Introduction)*
+- [X] **Section 58:** How to Form Adverbs
+- [X] **Section 59:** Adverbs of Manner
+- [X] **Section 60:** Adverbs of Frequency
+- [X] **Section 61:** Adverbs of Place
+- [X] **Section 62:** Adverbs of Time
+- [X] **Section 63:** Adverbs of Degree
+- [X] **Section 64:** Comparative and Superlative Adverbs
+- [X] **Section 65:** Order of Adverbs in a Sentence
 
 ---
 
 ## 🔢 **PART VII: QUANTIFIERS & DETERMINERS** (Sections 66-74)
-- [ ] **Section 66:** Distributives, Quantifier, and Pre-determiners *(Overview)*
-- [ ] **Section 67:** All - Half
-- [ ] **Section 68:** Each - Every
-- [ ] **Section 69:** Both - Either - Neither
-- [ ] **Section 70:** A Few - A Little
-- [ ] **Section 71:** A Lot of - Most
-- [ ] **Section 72:** Much - Many
-- [ ] **Section 73:** Some - Any - Enough
-- [ ] **Section 74:** What - Rather - Quite
+- [X] **Section 66:** Distributives, Quantifier, and Pre-determiners *(Overview)*
+- [X] **Section 67:** All - Half
+- [X] **Section 68:** Each - Every
+- [X] **Section 69:** Both - Either - Neither
+- [X] **Section 70:** A Few - A Little
+- [X] **Section 71:** A Lot of - Most
+- [X] **Section 72:** Much - Many
+- [X] **Section 73:** Some - Any - Enough
+- [X] **Section 74:** What - Rather - Quite
 
 ---
 
