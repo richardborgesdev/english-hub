@@ -124,14 +124,14 @@
 ---
 
 ## 🌍 **PART VIII: PREPOSITIONS** (Sections 75-82)
-- [ ] **Section 75:** Prepositions *(Introduction)*
-- [ ] **Section 76:** Prepositions - What Are They?
-- [ ] **Section 77:** Prepositions of Time
-- [ ] **Section 78:** Prepositions of Place
-- [ ] **Section 79:** Prepositions of Manner
-- [ ] **Section 80:** Prepositions of Direction and Motion
-- [ ] **Section 81:** Prepositions of Cause, Purpose, and Reason
-- [ ] **Section 82:** Prepositional Phrases
+- [X] **Section 75:** Prepositions *(Introduction)*
+- [X] **Section 76:** Prepositions - What Are They?
+- [X] **Section 77:** Prepositions of Time
+- [X] **Section 78:** Prepositions of Place
+- [X] **Section 79:** Prepositions of Manner
+- [X] **Section 80:** Prepositions of Direction and Motion
+- [X] **Section 81:** Prepositions of Cause, Purpose, and Reason
+- [X] **Section 82:** Prepositional Phrases
 
 ---
 
