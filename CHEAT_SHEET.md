@@ -448,3 +448,59 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Use quantifiers before nouns: many books, some water, few people.
 - Some quantifiers are only used with countable nouns (many, few), others with uncountable nouns (much, little).
 - Determiners help specify which noun you mean: this book, those apples, every student.
+
+---
+
+## Prepositions
+
+### What are Prepositions?
+- **Function**: Show relationships between nouns (or pronouns) and other words in a sentence, indicating location, time, direction, manner, cause, and more.
+- **Examples**:
+  1. in
+  2. on
+  3. at
+  4. by
+  5. with
+  6. under
+  7. to
+  8. from
+  9. for
+  10. about
+- **Usage Example**:
+  1. The cat is under the table.
+  2. We will meet at 5 PM.
+  3. She walked to the park.
+
+### Types of Prepositions
+- **Prepositions of Time**: Indicate when something happens.
+  1. at (at 5 PM)
+  2. on (on Monday)
+  3. in (in July)
+  - **Usage Example**: The party is on Friday.
+- **Prepositions of Place**: Indicate where something happens.
+  1. in (in the room)
+  2. on (on the table)
+  3. at (at the station)
+  - **Usage Example**: The keys are on the desk.
+- **Prepositions of Manner**: Indicate how something happens.
+  1. by (by car)
+  2. with (with a pen)
+  - **Usage Example**: She wrote the letter with a pencil.
+- **Prepositions of Direction and Motion**: Indicate movement.
+  1. to (go to school)
+  2. from (come from work)
+  - **Usage Example**: He walked to the store from home.
+- **Prepositions of Cause, Purpose, and Reason**: Indicate why something happens.
+  1. for (for health)
+  2. because of (because of rain)
+  - **Usage Example**: She stayed home because of the weather.
+- **Prepositional Phrases**: Groups of words beginning with a preposition.
+  1. in front of
+  2. next to
+  3. because of
+  - **Usage Example**: The car is in front of the house.
+
+### Usage Tips
+- Prepositions are usually followed by a noun or pronoun: in the box, with her, for them.
+- Some prepositions can be used for both time and place: at, in, on.
+- Prepositional phrases add detail and clarity to sentences.
