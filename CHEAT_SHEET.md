@@ -504,3 +504,49 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Prepositions are usually followed by a noun or pronoun: in the box, with her, for them.
 - Some prepositions can be used for both time and place: at, in, on.
 - Prepositional phrases add detail and clarity to sentences.
+
+---
+
+## Clauses
+
+### What are Clauses?
+- **Function**: Groups of words that contain a subject and a predicate (verb). They form the building blocks of sentences.
+- **Examples**:
+  1. I study English.
+  2. When I arrive home.
+  3. That she is smart.
+- **Usage Example**:
+  1. I study English because it's important.
+  2. When I arrive home, I will call you.
+
+### Types of Clauses
+- **Independent Clauses**: Complete thoughts that can stand alone as sentences.
+  1. I love pizza.
+  2. She works hard.
+  3. They are studying.
+  - **Usage Example**: I love pizza, and she prefers pasta.
+- **Dependent (Subordinate) Clauses**: Incomplete thoughts that cannot stand alone; they need an independent clause.
+  1. because it's raining
+  2. when he arrives
+  3. that I mentioned
+  - **Usage Example**: I stayed home because it's raining.
+- **Noun Clauses**: Function as nouns in a sentence (subject, object, or complement).
+  1. What she said is true.
+  2. I know that you're right.
+  3. The problem is what we discussed.
+  - **Usage Example**: What you need is more practice.
+- **Adjective (Relative) Clauses**: Modify nouns or pronouns; usually begin with relative pronouns.
+  1. The book that I read was interesting.
+  2. The woman who called is my sister.
+  3. The house where I lived was old.
+  - **Usage Example**: The student who studies hard will succeed.
+- **Adverb Clauses**: Modify verbs, adjectives, or other adverbs; show time, place, reason, condition, etc.
+  1. I'll call you when I arrive.
+  2. She left because she was tired.
+  3. If it rains, we'll stay inside.
+  - **Usage Example**: Although it was late, we continued working.
+
+### Usage Tips
+- Independent clauses can be joined with coordinating conjunctions (and, but, or, so).
+- Dependent clauses need to be attached to independent clauses to form complete sentences.
+- Relative pronouns (who, which, that, where, when) introduce adjective clauses.

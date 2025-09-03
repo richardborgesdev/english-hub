@@ -136,13 +136,13 @@
 ---
 
 ## 🔗 **PART IX: CLAUSES** (Sections 83-89)
-- [ ] **Section 83:** Clauses *(Introduction)*
-- [ ] **Section 84:** Clauses - What Are They?
-- [ ] **Section 85:** Independent Clauses
-- [ ] **Section 86:** Dependent (Subordinate) Clauses
-- [ ] **Section 87:** Noun Clauses
-- [ ] **Section 88:** Adjective (Relative) Clauses
-- [ ] **Section 89:** Adverb Clauses
+- [X] **Section 83:** Clauses *(Introduction)*
+- [X] **Section 84:** Clauses - What Are They?
+- [X] **Section 85:** Independent Clauses
+- [X] **Section 86:** Dependent (Subordinate) Clauses
+- [X] **Section 87:** Noun Clauses
+- [X] **Section 88:** Adjective (Relative) Clauses
+- [X] **Section 89:** Adverb Clauses
 
 ---
 
