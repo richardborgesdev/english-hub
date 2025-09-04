@@ -550,3 +550,70 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Independent clauses can be joined with coordinating conjunctions (and, but, or, so).
 - Dependent clauses need to be attached to independent clauses to form complete sentences.
 - Relative pronouns (who, which, that, where, when) introduce adjective clauses.
+
+---
+
+## Conjunctions
+
+### What are Conjunctions?
+- **Function**: Connect words, phrases, clauses, or sentences; they show relationships between connected elements.
+- **Examples**:
+  1. and
+  2. but
+  3. or
+  4. because
+  5. although
+  6. while
+  7. if
+  8. since
+- **Usage Example**:
+  1. I like tea and coffee.
+  2. She studied hard, so she passed the exam.
+  3. Although it was raining, we went outside.
+
+### Types of Conjunctions
+- **Coordinating Conjunctions**: Connect words, phrases, or clauses of equal importance.
+  1. and (addition)
+  2. but (contrast)
+  3. or (choice)
+  4. nor (negative choice)
+  5. for (reason)
+  6. so (result)
+  7. yet (contrast)
+  - **Usage Example**: I wanted to go, but it was too late.
+- **Subordinating Conjunctions**: Connect dependent clauses to independent clauses.
+  1. because (reason)
+  2. although (contrast)
+  3. when (time)
+  4. if (condition)
+  5. since (time/reason)
+  6. while (time/contrast)
+  7. unless (condition)
+  - **Usage Example**: I'll call you when I arrive home.
+- **Compound Conjunctions**: Made up of more than one word.
+  1. as well as
+  2. in order that
+  3. as soon as
+  4. even though
+  5. so that
+  - **Usage Example**: She worked hard so that she could succeed.
+- **Correlative Conjunctions**: Work in pairs to connect equal elements.
+  1. both...and
+  2. either...or
+  3. neither...nor
+  4. not only...but also
+  5. whether...or
+  - **Usage Example**: She is both smart and hardworking.
+- **Pseudo Conjunctions**: Words that function like conjunctions but are technically other parts of speech.
+  1. however
+  2. therefore
+  3. moreover
+  4. furthermore
+  5. nevertheless
+  - **Usage Example**: It was raining; however, we decided to go out.
+
+### Usage Tips
+- Coordinating conjunctions can be remembered by the acronym FANBOYS (For, And, Nor, But, Or, Yet, So).
+- Use a comma before coordinating conjunctions when connecting independent clauses.
+- Subordinating conjunctions create dependent clauses that cannot stand alone.
+- Correlative conjunctions must be used in pairs and should connect parallel elements.
