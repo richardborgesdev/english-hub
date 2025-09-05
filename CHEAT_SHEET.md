@@ -617,3 +617,66 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Use a comma before coordinating conjunctions when connecting independent clauses.
 - Subordinating conjunctions create dependent clauses that cannot stand alone.
 - Correlative conjunctions must be used in pairs and should connect parallel elements.
+
+---
+
+## Conditionals
+
+### What are Conditionals?
+- **Function**: Express hypothetical situations and their consequences; show cause-and-effect relationships that depend on certain conditions.
+- **Structure**: If + condition, then + result (or result + if + condition)
+- **Examples**:
+  1. If it rains, we will stay inside.
+  2. I would travel if I had money.
+  3. If she had studied, she would have passed.
+- **Usage Example**:
+  1. If you heat water to 100°C, it boils.
+  2. If I were you, I would accept the job.
+
+### Types of Conditionals
+- **Type 0 (Facts/General Truths)**: Express facts, scientific truths, or things that are always true.
+  - **Structure**: If + simple present, simple present
+  1. If you heat ice, it melts.
+  2. If it rains, the ground gets wet.
+  3. If you don't eat, you get hungry.
+  - **Usage Example**: If you mix red and blue, you get purple.
+- **Type 1 (Real Future)**: Express real possibilities in the future; likely to happen.
+  - **Structure**: If + simple present, will + base verb
+  1. If it rains tomorrow, I will stay home.
+  2. If you study hard, you will pass the exam.
+  3. If she calls, I will answer.
+  - **Usage Example**: If we leave now, we will arrive on time.
+- **Type 2 (Unreal Present)**: Express hypothetical or imaginary situations in the present; unlikely or impossible.
+  - **Structure**: If + simple past, would + base verb
+  1. If I were rich, I would buy a mansion.
+  2. If he studied more, he would get better grades.
+  3. If I had time, I would help you.
+  - **Usage Example**: If I were you, I would take that opportunity.
+- **Type 3 (Unreal Past)**: Express hypothetical situations in the past; things that didn't happen.
+  - **Structure**: If + past perfect, would have + past participle
+  1. If she had studied, she would have passed.
+  2. If we had left earlier, we would have arrived on time.
+  3. If he had called, I would have answered.
+  - **Usage Example**: If I had known about the party, I would have attended.
+- **Mixed Conditionals**: Combine different time periods; mix Type 2 and Type 3.
+  1. If I had studied medicine, I would be a doctor now. (past condition, present result)
+  2. If I were more organized, I wouldn't have forgotten the meeting. (present condition, past result)
+  - **Usage Example**: If she had saved money, she would be traveling now.
+
+### Common Conditional Words
+- **If**: The most common conditional word
+- **Unless**: Means "if not"
+  1. Unless you hurry, you will be late. (= If you don't hurry...)
+- **When**: For certain future events
+  1. When I finish work, I will call you.
+- **As soon as**: For immediate future actions
+  1. As soon as it stops raining, we will go out.
+- **In case**: For preparation or precaution
+  1. Take an umbrella in case it rains.
+
+### Usage Tips
+- Type 0: Use simple present in both clauses for facts and general truths.
+- Type 1: Use simple present after "if" and "will" in the main clause for real future possibilities.
+- Type 2: Use simple past after "if" and "would" in the main clause for unreal present situations.
+- Type 3: Use past perfect after "if" and "would have" in the main clause for unreal past situations.
+- The "if" clause can come first or second in the sentence; use a comma when it comes first.
