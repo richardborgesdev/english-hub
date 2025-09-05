@@ -147,24 +147,24 @@
 ---
 
 ## 🤝 **PART X: CONJUNCTIONS** (Sections 90-96)
-- [ ] **Section 90:** Conjunctions *(Introduction)*
-- [ ] **Section 91:** Conjunctions - What Are They?
-- [ ] **Section 92:** Coordinating Conjunctions
-- [ ] **Section 93:** Subordinating Conjunctions
-- [ ] **Section 94:** Compound Conjunctions
-- [ ] **Section 95:** Correlative Conjunctions
-- [ ] **Section 96:** Pseudo Conjunctions
+- [X] **Section 90:** Conjunctions *(Introduction)*
+- [X] **Section 91:** Conjunctions - What Are They?
+- [X] **Section 92:** Coordinating Conjunctions
+- [X] **Section 93:** Subordinating Conjunctions
+- [X] **Section 94:** Compound Conjunctions
+- [X] **Section 95:** Correlative Conjunctions
+- [X] **Section 96:** Pseudo Conjunctions
 
 ---
 
 ## 🎲 **PART XI: CONDITIONALS** (Sections 97-103)
-- [ ] **Section 97:** Conditionals *(Introduction)*
-- [ ] **Section 98:** Conditionals - What Are They?
-- [ ] **Section 99:** Conditionals - Type 0 *(Facts)*
-- [ ] **Section 100:** Conditionals - Type 1 *(Real Future)*
-- [ ] **Section 101:** Conditionals - Type 2 *(Unreal Present)*
-- [ ] **Section 102:** Conditionals - Type 3 *(Unreal Past)*
-- [ ] **Section 103:** Conditionals - Type Mixed
+- [X] **Section 97:** Conditionals *(Introduction)*
+- [X] **Section 98:** Conditionals - What Are They?
+- [X] **Section 99:** Conditionals - Type 0 *(Facts)*
+- [X] **Section 100:** Conditionals - Type 1 *(Real Future)*
+- [X] **Section 101:** Conditionals - Type 2 *(Unreal Present)*
+- [X] **Section 102:** Conditionals - Type 3 *(Unreal Past)*
+- [X] **Section 103:** Conditionals - Type Mixed
 
 ---
 
