@@ -169,12 +169,12 @@
 ---
 
 ## 🎯 **PART XII: ADVANCED GRAMMAR** (Sections 104-109)
-- [ ] **Section 104:** Stand Alone Topics *(Introduction)*
-- [ ] **Section 105:** Passive Voice VS Active Voice
-- [ ] **Section 106:** Reported Speech
-- [ ] **Section 107:** Common Mistakes *(Overview)*
-- [ ] **Section 108:** Fewer VS Less - Then VS Than
-- [ ] **Section 109:** There VS Their VS They're - To VS Too VS Two
+- [X] **Section 104:** Stand Alone Topics *(Introduction)*
+- [X] **Section 105:** Passive Voice VS Active Voice
+- [X] **Section 106:** Reported Speech
+- [X] **Section 107:** Common Mistakes *(Overview)*
+- [X] **Section 108:** Fewer VS Less - Then VS Than
+- [X] **Section 109:** There VS Their VS They're - To VS Too VS Two
 
 ---
 

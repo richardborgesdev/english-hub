@@ -680,3 +680,78 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Type 2: Use simple past after "if" and "would" in the main clause for unreal present situations.
 - Type 3: Use past perfect after "if" and "would have" in the main clause for unreal past situations.
 - The "if" clause can come first or second in the sentence; use a comma when it comes first.
+
+---
+
+## Advanced Grammar
+
+### Passive Voice vs Active Voice
+- **Function**: Change the focus of a sentence from the subject (active) to the object (passive).
+- **Active Voice**: The subject performs the action.
+  1. She wrote the letter.
+  2. They are building a house.
+  3. We will complete the project.
+- **Passive Voice**: The subject receives the action.
+  1. The letter was written by her.
+  2. A house is being built by them.
+  3. The project will be completed by us.
+- **Usage Example**:
+  - Active: The chef prepared the meal.
+  - Passive: The meal was prepared by the chef.
+
+### When to Use Passive Voice
+- When the action is more important than who does it.
+  1. English is spoken worldwide.
+  2. The building was constructed in 1920.
+- When the subject is unknown or unimportant.
+  1. My car was stolen last night.
+  2. Mistakes were made in the report.
+- In formal or scientific writing.
+  1. The experiment was conducted carefully.
+  2. The results were analyzed thoroughly.
+
+### Reported Speech (Indirect Speech)
+- **Function**: Report what someone said without using their exact words.
+- **Direct Speech**: Using exact words with quotation marks.
+  1. She said, "I am happy."
+  2. He asked, "Where are you going?"
+  3. They said, "We will come tomorrow."
+- **Reported Speech**: Reporting without quotation marks.
+  1. She said that she was happy.
+  2. He asked where I was going.
+  3. They said that they would come the next day.
+
+### Changes in Reported Speech
+- **Pronouns**: Change according to the speaker.
+  1. "I am tired" → He said he was tired.
+- **Tense**: Usually moves one step back in time.
+  1. Present → Past: "I work" → He said he worked.
+  2. Past → Past Perfect: "I worked" → He said he had worked.
+  3. Will → Would: "I will go" → He said he would go.
+- **Time expressions**: Change to match the reporting time.
+  1. today → that day
+  2. tomorrow → the next day
+  3. yesterday → the day before
+
+### Common Mistakes
+- **Fewer vs Less**: Use "fewer" with countable nouns, "less" with uncountable.
+  1. Fewer people (countable)
+  2. Less water (uncountable)
+  3. Fewer books, less time
+- **Then vs Than**: "Then" for time, "than" for comparisons.
+  1. First we eat, then we go. (time)
+  2. She is taller than me. (comparison)
+- **There vs Their vs They're**: Different meanings and uses.
+  1. There is a book on the table. (location/existence)
+  2. Their house is big. (possessive)
+  3. They're going home. (they are)
+- **To vs Too vs Two**: Different meanings and uses.
+  1. I want to go. (infinitive/direction)
+  2. It's too hot. (excessive)
+  3. I have two cats. (number)
+
+### Usage Tips
+- Use passive voice when the action or result is more important than the doer.
+- In reported speech, remember to change pronouns, tenses, and time expressions appropriately.
+- Practice common mistake pairs by creating example sentences for each usage.
+- Pay attention to countable vs uncountable nouns when choosing "fewer" or "less".
