@@ -755,3 +755,105 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - In reported speech, remember to change pronouns, tenses, and time expressions appropriately.
 - Practice common mistake pairs by creating example sentences for each usage.
 - Pay attention to countable vs uncountable nouns when choosing "fewer" or "less".
+
+---
+
+## Writing Skills
+
+### Four Sentence Types and Structures
+- **Function**: Organize thoughts and communicate effectively in writing using different sentence types and structures.
+
+### Sentence Types
+- **Declarative Sentences**: Make statements or provide information.
+  1. The sun rises in the east.
+  2. She works as a teacher.
+  3. We are studying English.
+  - **Usage Example**: I love reading books in my free time.
+- **Interrogative Sentences**: Ask questions.
+  1. What time is it?
+  2. Are you coming to the party?
+  3. How do you spell your name?
+  - **Usage Example**: Where did you learn to speak English so well?
+- **Imperative Sentences**: Give commands, make requests, or provide instructions.
+  1. Close the door.
+  2. Please help me with this.
+  3. Turn left at the next corner.
+  - **Usage Example**: Remember to bring your passport to the airport.
+- **Exclamatory Sentences**: Express strong emotion or surprise.
+  1. What a beautiful day!
+  2. How amazing this is!
+  3. That's incredible!
+  - **Usage Example**: What an excellent presentation you gave!
+
+### Sentence Structures
+- **Simple Sentences**: One independent clause (subject + predicate).
+  1. Birds fly.
+  2. The cat sleeps.
+  3. Students study hard.
+  - **Usage Example**: The teacher explained the lesson clearly.
+- **Compound Sentences**: Two or more independent clauses connected by coordinating conjunctions.
+  1. I study English, and my sister studies French.
+  2. It was raining, but we went outside.
+  3. You can stay here, or you can come with us.
+  - **Usage Example**: The weather was cold, so we decided to stay inside.
+- **Complex Sentences**: One independent clause and one or more dependent clauses.
+  1. Because it was late, we went home.
+  2. The book that I read was interesting.
+  3. When she arrives, we will start the meeting.
+  - **Usage Example**: Although it was difficult, she passed the exam.
+- **Compound-Complex Sentences**: Two or more independent clauses and one or more dependent clauses.
+  1. When the rain stopped, we went outside, and the children played in the park.
+  2. Because he studied hard, he passed the test, but his friend did not.
+  - **Usage Example**: After we finished dinner, I washed the dishes, and my wife prepared dessert.
+
+### English Punctuation Marks
+- **Period (.)**: Ends declarative and imperative sentences.
+  1. She is a doctor.
+  2. Please sit down.
+- **Comma (,)**: Separates items in a list, clauses, or phrases.
+  1. I bought apples, oranges, and bananas.
+  2. When I arrived, everyone was waiting.
+- **Question Mark (?)**: Ends interrogative sentences.
+  1. What is your name?
+  2. Are you ready?
+- **Exclamation Point (!)**: Ends exclamatory sentences or shows strong emotion.
+  1. What a surprise!
+  2. Help!
+- **Semicolon (;)**: Connects closely related independent clauses.
+  1. I love reading; it's my favorite hobby.
+  2. She studied hard; therefore, she passed.
+- **Colon (:)**: Introduces lists, explanations, or quotations.
+  1. I need three things: milk, bread, and eggs.
+  2. Remember this: practice makes perfect.
+- **Apostrophe (')**: Shows possession or contractions.
+  1. John's car (possession)
+  2. Don't go (contraction)
+- **Quotation Marks (" ")**: Enclose direct speech or quotes.
+  1. She said, "I'm happy."
+  2. The word "beautiful" has many meanings.
+- **Parentheses ( )**: Enclose additional information.
+  1. The meeting (which starts at 2 PM) is important.
+  2. She lives in Paris (France).
+- **Brackets [ ]**: Enclose editorial additions or clarifications.
+  1. He said, "I saw her [Mary] yesterday."
+- **Dash (—)**: Shows sudden changes or emphasizes information.
+  1. The weather was perfect—sunny and warm.
+  2. I was thinking about dinner—pizza sounds good.
+- **Hyphen (-)**: Connects compound words or word parts.
+  1. twenty-one
+  2. self-confident
+- **Ellipsis (...)**: Shows omitted words or trailing thoughts.
+  1. She said, "I think..."
+  2. The list includes apples, oranges...
+- **Slash (/)**: Shows alternatives or divisions.
+  1. and/or
+  2. 12/25/2023
+- **Asterisk (*)**: Indicates footnotes or emphasis.
+  1. See note below*
+  2. *Important information
+
+### Usage Tips
+- Use varied sentence types to make writing more interesting and engaging.
+- Combine simple sentences into compound or complex sentences to show relationships between ideas.
+- Always use appropriate punctuation to ensure clarity and proper meaning.
+- Practice writing different sentence structures to improve fluency and style.
