@@ -179,9 +179,9 @@
 ---
 
 ## ✍️ **PART XIII: WRITING SKILLS** (Sections 110-112)
-- [ ] **Section 110:** English Writing Section *(Introduction)*
-- [ ] **Section 111:** Four Sentence Types and Structures
-- [ ] **Section 112:** English Punctuation Marks
+- [X] **Section 110:** English Writing Section *(Introduction)*
+- [X] **Section 111:** Four Sentence Types and Structures
+- [X] **Section 112:** English Punctuation Marks
 
 ---
 
