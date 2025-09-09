@@ -188,12 +188,12 @@
 ## 🗣️ **PART XIV: SPEAKING & CONVERSATION** (Sections 113-140)
 
 ### A. Social Communication (Sections 113-118)
-- [ ] **Section 113:** English Speaking Section *(Introduction)*
-- [ ] **Section 114:** Introductions in Informal Settings
-- [ ] **Section 115:** Introductions in Formal Settings
-- [ ] **Section 116:** Small Talk
-- [ ] **Section 117:** Hobbies and Interests
-- [ ] **Section 118:** Family
+- [X] **Section 113:** English Speaking Section *(Introduction)*
+- [X] **Section 114:** Introductions in Informal Settings
+- [X] **Section 115:** Introductions in Formal Settings
+- [X] **Section 116:** Small Talk
+- [X] **Section 117:** Hobbies and Interests
+- [X] **Section 118:** Family
 
 ### B. Professional Communication (Sections 119-122)
 - [ ] **Section 119:** Business Communication
