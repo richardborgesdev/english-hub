@@ -196,10 +196,10 @@
 - [X] **Section 118:** Family
 
 ### B. Professional Communication (Sections 119-122)
-- [ ] **Section 119:** Business Communication
-- [ ] **Section 120:** Daily Work Routine
-- [ ] **Section 121:** Job Hunting
-- [ ] **Section 122:** Unemployment
+- [X] **Section 119:** Business Communication
+- [X] **Section 120:** Daily Work Routine
+- [X] **Section 121:** Job Hunting
+- [X] **Section 122:** Unemployment
 
 ### C. Practical Topics (Sections 123-140)
 - [ ] **Section 123:** Countries and Nationalities
