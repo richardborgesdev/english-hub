@@ -202,24 +202,24 @@
 - [X] **Section 122:** Unemployment
 
 ### C. Practical Topics (Sections 123-140)
-- [ ] **Section 123:** Countries and Nationalities
-- [ ] **Section 124:** Dates
-- [ ] **Section 125:** Days and Months
-- [ ] **Section 126:** Directions
-- [ ] **Section 127:** Expressing Feelings
-- [ ] **Section 128:** Geography and Nature
-- [ ] **Section 129:** Holidays *(Overview)*
-- [ ] **Section 130:** Spring Holidays
-- [ ] **Section 131:** Summer Holidays
-- [ ] **Section 132:** Fall Holidays
-- [ ] **Section 133:** Winter Holidays
-- [ ] **Section 134:** Money
-- [ ] **Section 135:** Numbers
-- [ ] **Section 136:** Opposites
-- [ ] **Section 137:** Question Words
-- [ ] **Section 138:** Seasons and Weather
-- [ ] **Section 139:** Sports
-- [ ] **Section 140:** Telling Time
+- [X] **Section 123:** Countries and Nationalities
+- [X] **Section 124:** Dates
+- [X] **Section 125:** Days and Months
+- [X] **Section 126:** Directions
+- [X] **Section 127:** Expressing Feelings
+- [X] **Section 128:** Geography and Nature
+- [X] **Section 129:** Holidays *(Overview)*
+- [X] **Section 130:** Spring Holidays
+- [X] **Section 131:** Summer Holidays
+- [X] **Section 132:** Fall Holidays
+- [X] **Section 133:** Winter Holidays
+- [X] **Section 134:** Money
+- [X] **Section 135:** Numbers
+- [X] **Section 136:** Opposites
+- [X] **Section 137:** Question Words
+- [X] **Section 138:** Seasons and Weather
+- [X] **Section 139:** Sports
+- [X] **Section 140:** Telling Time
 
 ---
 
