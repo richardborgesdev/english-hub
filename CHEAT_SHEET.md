@@ -183,6 +183,46 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - Verb + preposition/adverb to create a new meaning.
   - *Examples*: She gave up smoking. It turned out well. Carry on with your work.
 
+### Essential Phrasal Verbs
+- **Function**: Master the most common phrasal verbs used in everyday English conversations.
+- **Common Daily Phrasal Verbs**:
+  1. wake up - I wake up at 7 AM every day.
+  2. get up - Please get up from the chair.
+  3. put on - Put on your jacket, it's cold.
+  4. take off - Take off your shoes before entering.
+  5. look for - I'm looking for my keys.
+- **Relationship Phrasal Verbs**:
+  1. get along - We get along very well.
+  2. fall out - They fell out over money.
+  3. make up - Let's make up after our argument.
+  4. ask out - He asked her out on a date.
+  5. break up - They broke up last month.
+- **Work/Study Phrasal Verbs**:
+  1. hand in - Please hand in your homework.
+  2. work out - Let's work out this problem together.
+  3. figure out - I need to figure out this puzzle.
+  4. look up - Look up the word in the dictionary.
+  5. write down - Write down the important information.
+- **Communication Phrasal Verbs**:
+  1. speak up - Please speak up, I can't hear you.
+  2. bring up - Don't bring up that topic again.
+  3. point out - Let me point out the mistake.
+  4. find out - I need to find out the truth.
+  5. talk over - Let's talk over the plan.
+- **Movement Phrasal Verbs**:
+  1. come back - What time will you come back?
+  2. go away - The pain will go away soon.
+  3. run into - I ran into an old friend yesterday.
+  4. drop off - I'll drop off the package.
+  5. pick up - Can you pick up some milk?
+- **Problem/Solution Phrasal Verbs**:
+  1. deal with - How do you deal with stress?
+  2. sort out - We need to sort out this issue.
+  3. work on - I'm working on my English skills.
+  4. give up - Don't give up on your dreams.
+  5. keep up - Try to keep up with the class.
+- **Usage Example**: "I wake up at 7 AM, put on my clothes, and look for my keys before leaving. If I run into traffic, I call to let them know I'll be late."
+
 ---
 
 ## Detailed Noun & Pronoun System
@@ -261,6 +301,49 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
   1. this
   2. that
   3. these
+
+### Reflexive Pronouns
+- **Function**: Refer back to the subject of the sentence; used when the subject and object are the same person/thing.
+- **Singular Forms**:
+  1. myself - I hurt myself while cooking.
+  2. yourself - Did you enjoy yourself at the party?
+  3. himself - He taught himself to play guitar.
+  4. herself - She bought herself a new dress.
+  5. itself - The cat cleaned itself after eating.
+- **Plural Forms**:
+  1. ourselves - We prepared ourselves for the exam.
+  2. yourselves - You should be proud of yourselves.
+  3. themselves - They introduced themselves to the group.
+- **Usage Rules**:
+  1. When subject = object: I see myself in the mirror.
+  2. For emphasis: I myself don't believe it.
+  3. After prepositions: She kept the secret to herself.
+  4. With "by" meaning alone: I live by myself.
+  5. Never as subjects: ❌ Myself went → ✅ I went myself.
+- **Usage Example**: "I taught myself English by watching movies. Did you teach yourself, or did someone help you?"
+
+### Relative Pronouns
+- **Function**: Connect clauses and provide more information about a noun without starting a new sentence.
+- **Subject Relative Pronouns**:
+  1. who - The person who called is my brother.
+  2. which - The book which I bought is interesting.
+  3. that - The car that we saw was expensive.
+- **Object Relative Pronouns**:
+  1. whom - The person whom I met was friendly.
+  2. which - The movie which we watched was great.
+  3. that - The house that they bought is beautiful.
+- **Possessive & Location**:
+  1. whose - The student whose book was lost is here.
+  2. where - The place where we met is special.
+  3. when - The day when we first met was sunny.
+  4. why - The reason why I called was important.
+- **Usage Rules**:
+  1. Use "who" for people as subjects
+  2. Use "whom" for people as objects (formal)
+  3. Use "which" for things/animals
+  4. Use "that" for people or things (restrictive)
+  5. Use "whose" to show possession
+- **Usage Example**: "The teacher who helped me is the same person whose class I attended last year. The school where we studied is the place that I'll always remember."
 
 ---
 
@@ -755,6 +838,168 @@ This cheat sheet is a concise guide to the building blocks of English sentences 
 - In reported speech, remember to change pronouns, tenses, and time expressions appropriately.
 - Practice common mistake pairs by creating example sentences for each usage.
 - Pay attention to countable vs uncountable nouns when choosing "fewer" or "less".
+
+### Common Idioms & Expressions
+- **Function**: Use natural expressions that native speakers commonly use in conversations.
+- **Conversation Starters & Social Idioms**:
+  1. break the ice - Let me break the ice with a joke.
+  2. small talk - We made some small talk before the meeting.
+  3. hit it off - We really hit it off at the party.
+  4. get along - Do you get along with your coworkers?
+  5. see eye to eye - We don't always see eye to eye.
+- **Easy/Difficult Situations**:
+  1. piece of cake - The test was a piece of cake.
+  2. no sweat - Fixing this computer? No sweat!
+  3. over my head - This math problem is over my head.
+  4. in hot water - He's in hot water with his boss.
+  5. between a rock and a hard place - I'm between a rock and a hard place.
+- **Time & Speed**:
+  1. in the nick of time - We arrived in the nick of time.
+  2. time flies - Time flies when you're having fun.
+  3. better late than never - Sorry I'm late, but better late than never.
+  4. at the drop of a hat - She can sing at the drop of a hat.
+  5. once in a blue moon - I eat fast food once in a blue moon.
+- **Success & Accuracy**:
+  1. hit the nail on the head - You hit the nail on the head with that comment.
+  2. on the right track - You're on the right track with this project.
+  3. close but no cigar - Your answer was close but no cigar.
+  4. back to square one - We're back to square one with this problem.
+  5. the ball is in your court - I've done my part; the ball is in your court.
+- **Weather & Nature Idioms**:
+  1. it's raining cats and dogs - It's raining cats and dogs outside.
+  2. under the weather - I'm feeling under the weather today.
+  3. every cloud has a silver lining - Don't worry, every cloud has a silver lining.
+  4. calm before the storm - This quiet is the calm before the storm.
+  5. when it rains, it pours - First my car broke down, then I lost my job - when it rains, it pours.
+- **Money & Value**:
+  1. cost an arm and a leg - That car costs an arm and a leg.
+  2. worth its weight in gold - This advice is worth its weight in gold.
+  3. penny for your thoughts - You look deep in thought - penny for your thoughts?
+  4. break the bank - Dinner at that restaurant won't break the bank.
+  5. cut corners - Don't cut corners on this important project.
+- **Usage Example**: "The presentation was a piece of cake, and I hit the nail on the head with my main points. Time flies when you're doing something you enjoy!"
+
+### Collocations
+- **Function**: Learn natural word combinations that native speakers use automatically.
+- **Adjective + Noun Collocations**:
+  1. strong coffee (not powerful coffee)
+  2. heavy rain (not strong rain)
+  3. fast food (not quick food)
+  4. high temperature (not tall temperature)
+  5. deep sleep (not profound sleep)
+- **Verb + Noun Collocations**:
+  1. make a decision (not take a decision)
+  2. do homework (not make homework)
+  3. take a shower (not make a shower)
+  4. give advice (not say advice)
+  5. pay attention (not give attention)
+- **Verb + Preposition Collocations**:
+  1. depend on (not depend of)
+  2. consist of (not consist in)
+  3. apologize for (not apologize of)
+  4. agree with (not agree to a person)
+  5. succeed in (not succeed at)
+- **Noun + Noun Collocations**:
+  1. traffic jam (not car jam)
+  2. round trip (not circle trip)
+  3. job interview (not work interview)
+  4. computer screen (not computer monitor)
+  5. research paper (not investigation paper)
+- **Common Business Collocations**:
+  1. conduct research (not make research)
+  2. attend a meeting (not assist a meeting)
+  3. submit a report (not send a report)
+  4. meet deadlines (not reach deadlines)
+  5. achieve goals (not reach goals)
+- **Usage Example**: "I need to make a decision about the job offer. I'll conduct research on the company and submit my report before the deadline."
+
+## Word Formation
+
+### What is Word Formation?
+- **Function**: Build vocabulary systematically by understanding how words are created using prefixes, suffixes, and word combinations.
+- **Benefits**: Understand new words, improve vocabulary, communicate more precisely.
+
+### Common Prefixes
+- **Negative Prefixes**:
+  1. un- (unhappy, unclear, unfair)
+  2. dis- (disagree, dislike, disappear)
+  3. in- (incorrect, incomplete, invisible)
+  4. im- (impossible, impatient, immature)
+  5. ir- (irregular, irresponsible, irrelevant)
+- **Other Common Prefixes**:
+  1. re- (redo, return, rebuild)
+  2. pre- (preview, prepare, predict)
+  3. over- (overeat, overtime, overdo)
+  4. under- (understand, underwater, underpaid)
+  5. mis- (mistake, misunderstand, mislead)
+- **Usage Example**: "I need to rewrite this report because it's incomplete and unclear."
+
+### Common Suffixes
+- **Noun Suffixes**:
+  1. -tion (education, information, creation)
+  2. -ness (happiness, kindness, darkness)
+  3. -ment (development, improvement, agreement)
+  4. -er/-or (teacher, doctor, writer)
+  5. -ity (quality, responsibility, activity)
+- **Adjective Suffixes**:
+  1. -ful (helpful, useful, beautiful)
+  2. -less (helpless, useless, careless)
+  3. -able/-ible (comfortable, possible, terrible)
+  4. -ous (famous, dangerous, nervous)
+  5. -ive (active, creative, expensive)
+- **Adverb Suffixes**:
+  1. -ly (quickly, carefully, easily)
+  2. -ward (forward, backward, toward)
+- **Usage Example**: "The teacher's explanation was helpful and the activity was enjoyable, but some students were careless with their work."
+
+### Compound Words
+- **Function**: Combine two or more words to create new meanings.
+- **Noun + Noun**:
+  1. bedroom (bed + room)
+  2. football (foot + ball)
+  3. sunlight (sun + light)
+  4. newspaper (news + paper)
+  5. backpack (back + pack)
+- **Adjective + Noun**:
+  1. blackboard (black + board)
+  2. greenhouse (green + house)
+  3. software (soft + ware)
+  4. hardware (hard + ware)
+  5. blueprint (blue + print)
+- **Verb + Noun**:
+  1. breakfast (break + fast)
+  2. sunset (sun + set)
+  3. haircut (hair + cut)
+  4. workout (work + out)
+  5. cleanup (clean + up)
+- **Usage Example**: "Every morning at sunrise, I eat breakfast while reading the newspaper in my bedroom."
+
+### Word Formation Patterns
+- **Verb → Noun**:
+  1. educate → education
+  2. develop → development
+  3. teach → teacher
+  4. write → writer
+  5. create → creation
+- **Adjective → Noun**:
+  1. happy → happiness
+  2. kind → kindness
+  3. responsible → responsibility
+  4. active → activity
+  5. possible → possibility
+- **Noun → Adjective**:
+  1. care → careful/careless
+  2. help → helpful/helpless
+  3. use → useful/useless
+  4. beauty → beautiful
+  5. danger → dangerous
+- **Usage Example**: "The teacher's development of new activities shows her creativity and responsibility for student happiness."
+
+### Usage Tips
+- Learn word families together (care, careful, careless, carefully, carelessly)
+- Use prefixes to understand opposite meanings (happy/unhappy, possible/impossible)
+- Practice compound words in context to remember their meanings
+- Build vocabulary systematically by learning common prefixes and suffixes
 
 ---
 
