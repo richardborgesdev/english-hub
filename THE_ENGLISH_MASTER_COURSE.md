@@ -224,12 +224,12 @@
 ---
 
 ## 🎤 **PART XV: PRONUNCIATION TRAINING** (Sections 141-146)
-- [ ] **Section 141:** Accent Reduction Training - Perfect English Pronunciation
-- [ ] **Section 142:** Understand and Learn all the English Sound for a Perfect Accent
-- [ ] **Section 143:** American Accent (Male): Weekly English Pronunciation Practice Packs
-- [ ] **Section 144:** American Accent (Female): Weekly English Pronunciation Practice Packs
-- [ ] **Section 145:** British Accent (Male): Weekly English Pronunciation Practice Packs
-- [ ] **Section 146:** British Accent (Female): Weekly English Pronunciation Practice Packs
+- [X] **Section 141:** Accent Reduction Training - Perfect English Pronunciation
+- [X] **Section 142:** Understand and Learn all the English Sound for a Perfect Accent
+- [X] **Section 143:** American Accent (Male): Weekly English Pronunciation Practice Packs
+- [X] **Section 144:** American Accent (Female): Weekly English Pronunciation Practice Packs
+- [X] **Section 145:** British Accent (Male): Weekly English Pronunciation Practice Packs
+- [X] **Section 146:** British Accent (Female): Weekly English Pronunciation Practice Packs
 
 ---
 
