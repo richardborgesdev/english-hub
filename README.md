@@ -1,10 +1,10 @@
 # english-hub
 
 ## Tasks
-- [ ] Duolingo | Finish at 2500 days
+- [X] Duolingo | Finish at 2500 days
 - [X] Busuu | Finish all extra courses
 - [ ] Busuu | Finish main course
-- [ ] Create my own grammar review
+- [X] Create my own grammar review
 - [ ] DET | 120+ points
 - [ ] TOEFL | 100+ points
 - [ ] IELTS | 7.5+ points
@@ -40,7 +40,7 @@
 ## Grammar
 1. https://www.perfect-english-grammar.com/grammar-explanations.html
 1. https://www.udemy.com/course/learn-english-grammar-online/
-
+v
 ## Pronunciation
 1. https://www.youtube.com/@hadar.shemesh
 1. https://youtube.com/@rachelsenglish
@@ -56,7 +56,9 @@
 1. https://www.tefl.org/
 
 ## Progress
-### Busuu | 56 days of grammar review
-[![Busuu | 56 days of grammar review](https://img.youtube.com/vi/lyigoQy1Vyk/0.jpg)](https://www.youtube.com/watch?v=lyigoQy1Vyk)
-### Duolingo | 2314 dias de curso de inglês em português
-[![Duolingo | 2314 dias de curso de inglês em português](https://img.youtube.com/vi/DR6Iyrt0Zhw/0.jpg)](https://www.youtube.com/watch?v=DR6Iyrt0Zhw)
+
+### Duolingo | 2500 Days Streak Achievement! 🔥
+![Duolingo 2500 Days](./assets/duolingo2500.png)
+
+### Busuu | All Extra Courses Completed! 🎓
+![Busuu Extra Courses](./assets/busuuAllExtracourses.png)
