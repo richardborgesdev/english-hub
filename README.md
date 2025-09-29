@@ -62,3 +62,6 @@ v
 
 ### Busuu | All Extra Courses Completed! 🎓
 ![Busuu Extra Courses](./assets/busuuAllExtracourses.png)
+
+### Busuu | A1
+![Busuu A1 certificate](./assets/busuuA1.png)
