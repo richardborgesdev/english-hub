@@ -1,4 +1,6 @@
-# [The English Master Course: English Grammar, English Speaking](https://www.udemy.com/course/learn-english-grammar-online)
+# The English Master Course: English Grammar, English Speaking
+[Udemy link](https://www.udemy.com/course/learn-english-grammar-online)
+
 
 ## Course Overview
 **Total Sections:** 152 | **Focus Areas:** Grammar, Speaking, Pronunciation, Writing, Exam Preparation
