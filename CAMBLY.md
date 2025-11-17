@@ -1,5 +1,144 @@
 # Cambly diary
 
+## Class 8 | 17 November 2025
+
+### Started classes with Teacher Justin Remy
+
+### Cambly ai feedback:
+#### Coherence:
+1. What you're doing well:
+    > Your ideas are generally well-organized and easy to follow.
+
+1. Explanation:
+    > You clearly articulated your thoughts about your gym routine and travel experiences, making it easy for the tutor to understand your points and engage in the conversation.
+
+#### Grammar:
+1. You said: "I'm trying doing full body workouts lately."
+    > Suggestion: "I'm trying to do full body workouts lately."
+    > Explanation: The phrase 'trying doing' is incorrect; it should use either 'trying to do' or 'doing'.
+
+1. You said: "I'm graduating computer science."
+    > Suggestion: "I'm graduating with a degree in computer science."
+    > Explanation: The sentence lacks a preposition; it should specify the degree.
+
+1. You said: "I think the health is important, very important."
+    > Suggestion: "I think health is important, very important."
+    > Explanation: The article 'the' is unnecessary before 'health'.
+
+1. You said: "There are a lot of different animals than here in Brazil."
+    > Suggestion: "There are a lot of different animals from here in Brazil."
+    > Explanation: The comparative 'than' is incorrectly used; it should be 'from'.
+
+### Additional class insights:
+#### Vocabulary learned:
+1. **full body workouts**: exercise routine targeting all major muscle groups
+2. **resistance**: force used in strength training exercises
+3. **glacier**: large mass of ice moving slowly down mountains
+4. **lithodes centola**: scientific name for king crab species (southern Argentine crab)
+5. **Portunhol**: informal mixed language between Portuguese and Spanish
+6. **Ushuaia**: southernmost city in Argentina, 1,000km from Antarctica
+7. **Laguna Esmeralda**: emerald lagoon hiking destination near Ushuaia
+8. **Beagle's Channel**: major waterway in southern Argentina with diverse wildlife
+9. **Dungeness crab**: type of crab popular in US (cheaper variety)
+10. **snow crab**: cold-water crab variety (more expensive)
+11. **lore**: background story and mythology of a game or fictional world
+12. **discord**: online communication platform for gaming communities
+13. **delicacy**: expensive or rare food item considered special
+14. **prized**: highly valued or sought after
+15. **mastery in action**: demonstration of expert skill level
+16. **sake**: traditional Japanese rice wine
+17. **accommodation**: place where you stay when traveling
+18. **merger**: combining of two companies into one
+19. **MBA**: Master of Business Administration (graduate degree)
+20. **prerequisites**: required conditions before doing something
+21. **fossilized problems**: recurring mistakes that become habitual (student's creative term)
+22. **vocally**: using spoken voice (as opposed to typing)
+23. **meetups**: organized gatherings of people with similar interests
+
+#### Communication strengths identified:
+1. **Rich vocabulary**: Strong technical terms for fitness, travel, and food topics
+2. **Cultural explanations**: Good ability to describe cultural differences (Portunhol example)
+3. **Detailed storytelling**: Shared comprehensive travel and hobby experiences
+4. **Topic-specific language**: Effective use of specialized vocabulary in different contexts
+5. **Coherent organization**: Ideas well-structured and easy to follow
+
+#### Areas for improvement:
+1. **Article usage**: Inconsistent use of "a," "an," "the" (MAIN FOCUS AREA - critical for professional meetings)
+   - "the health" → "health" (unnecessary article with abstract nouns)
+   - Need to develop natural article placement habits
+   - Practice reading tech/business articles aloud with article awareness
+   - Review written emails specifically checking for article placement
+2. **Verb patterns**: "trying doing" → "trying to do" (gerund vs infinitive)
+   - Review verb + infinitive vs verb + gerund patterns
+3. **Prepositions with verbs**: "graduating computer science" → "graduating with a degree in computer science"
+   - Need to include necessary prepositions in formal contexts
+4. **Comparatives**: "different than" → "different from" (correct preposition usage)
+   - Review preposition rules with comparative structures
+5. **Fossilized errors**: Recurring mistakes that have become habitual
+   - Need targeted feedback to identify and correct repeated patterns
+
+#### Class activities completed:
+1. **Fitness discussion**: Explained full body workout routine (upper body → shoulders/biceps → legs, 3 repetitions)
+2. **Personal introduction**: Shared background as software engineer with 13 years experience, computer science graduation
+3. **Hobbies exploration**: Discussed guitar playing, video games (Path of Exile), running, walking, gym philosophy
+4. **Travel storytelling**: Comprehensive description of Ushuaia, Argentina trip
+   - First glacier experience
+   - Laguna Esmeralda hiking
+   - Beagle's Channel boat trips
+   - Wildlife observation (penguins and diverse species)
+5. **Food and culture**: Discussed lithodes centola (special king crab), Japanese cuisine preferences, salmon quality
+6. **Language mixing**: Explained Portunhol communication between Portuguese and Spanish speakers
+7. **Cultural comparison**: Japan vs US/Europe sushi quality, safety in different countries
+8. **Professional context**: Explained upcoming company merger with Norwegian company, need for English in December meetings
+9. **Goal setting**: Discussed MBA plans abroad, job interview preparation, need for confidence in high position
+10. **Learning strategy**: Established focus on feedback, identifying fossilized errors, practicing with creative methods
+11. **Gaming and practice**: Explored using Path of Exile Discord communities for English practice
+
+#### Next steps:
+1. **Article practice priority**: Focus on consistent "a/an/the" usage for December meetings with Norwegian company
+2. **Reading aloud exercise**: Practice with tech/business news articles, emphasizing article awareness
+3. **Email review technique**: Check written communications specifically for article placement
+4. **Conscious pausing**: Pause before articles when speaking to build awareness
+5. **Professional preparation**: Polish article usage for high-position communication
+6. **Creative practice methods**:
+   - Join Path of Exile English Discord community
+   - Type responses in English and read them aloud before sending
+   - Read other players' messages out loud for pronunciation practice
+   - Start with text-based interaction, progress to voice chat
+7. **Gaming integration**: Change Path of Exile language settings to English, read game lore/quests aloud
+8. **Continue current efforts**: Grammar review from A1-C2, pronunciation course, Cambly sessions
+9. **Fossilized error tracking**: Focus on identifying and correcting repeated mistakes through teacher feedback
+10. **MBA preparation**: Use English practice to prepare for international post-graduation requirements
+
+#### Teacher's assessment:
+- **Strength**: excellent vocabulary range across diverse topics (fitness, travel, culture, food)
+- **Progress**: strong storytelling abilities and coherent idea organization
+- **Focus area**: article usage consistency - critical for professional communication polish
+- **Recommendation**: targeted article practice through reading aloud and written review exercises will yield quick, noticeable improvements
+
+#### Conversation highlights:
+- **Ushuaia travel story**: First time seeing glacier, zero-degree Celsius weather, 1,000km from Antarctica
+- **Laguna Esmeralda hiking**: Beautiful mountain scenery, one-street town with restaurants and river
+- **Beagle's Channel exploration**: Boat trips, diverse animal species, penguin sightings
+- **Culinary adventure**: $200 lithodes centola crab experience, discussion of king crab varieties
+- **Food quality insights**: Brazilian salmon quality issues due to distance from catch locations
+- **Japan dream**: Plans to visit Japan in future, interest in authentic sushi and culture
+- **Cultural safety comparison**: Teacher shared Tokyo safety experience vs US/European cities
+- **Sushi quality discussion**: Western vs Japanese sushi, importance of freshness and chef mastery
+- **Company merger news**: Norwegian company acquisition, December English meetings starting
+- **Career goals**: MBA abroad plans, need for high-position communication confidence
+- **Gaming discussion**: Path of Exile (Diablo-like ARPG), currently playing solo
+- **Learning strategy revelation**: Identified "fossilized problems" - recurring mistakes he wants to fix
+- **Feedback priority**: Emphasized need for teacher corrections (missed in AI tools and group lessons)
+- **Creative practice ideas**: Discord community engagement, reading game content aloud, typing practice
+- **Comprehensive grammar review**: Starting from zero to express level review
+- **Apartment constraints**: Acoustic guitar too loud, switched to video games as hobby
+- **Health philosophy**: Emphasized health as "very important," maintains active lifestyle
+- **Language bridge**: Portunhol enables tourist communication between Portuguese and Spanish
+- **Professional background**: 13 years in software engineering, completing computer science degree
+
+---
+
 ## Class 7 | 19 August 2025
 
 ### Cambly ai feedback:
