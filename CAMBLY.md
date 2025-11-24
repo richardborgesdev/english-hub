@@ -1,6 +1,152 @@
 # Cambly diary
 
-## Class 8 | 17 November 2025
+## Class 9 | 17 November 2025
+
+### Cambly ai feedback:
+#### Grammar:
+1. What you're doing well:
+    > You used complex sentences effectively.
+
+1. Explanation:
+    > Your ability to construct complex sentences, such as discussing your training and career path, shows a strong grasp of English grammar.
+
+#### Grammar:
+1. You said: "The last thing we can do was long."
+    > Suggestion: "The last thing we did was long."
+    > Explanation: The sentence uses 'can do' (present) with 'was' (past), which creates a tense inconsistency.
+
+1. You said: "I fly to Sao Paulo on the Saturday to do a training, full day training."
+    > Suggestion: "I flew to Sao Paulo on Saturday to do a full day training."
+    > Explanation: The sentence uses 'fly' (present) while referring to a past event.
+
+1. You said: "It's a one-hour flight, but the training was long, so I'm a little tired today."
+    > Suggestion: "It's a one-hour flight, but the training was long, so I was a little tired today."
+    > Explanation: The sentence mixes present ('I'm') and past ('was') tenses inappropriately.
+
+1. You said: "But, oh, my city's team did something, win."
+    > Suggestion: "But, oh, my city's team won."
+    > Explanation: The phrase 'did something, win' is incorrect; 'won' should be used.
+
+#### Vocabulary:
+1. You said: "I did a lot of network and met new people."
+    > Suggestion: "I did a lot of networking and met new people."
+    > Explanation: The phrase 'did a lot of network' is incorrect; 'networking' is the correct term.
+
+1. You said: "I feel a little, I don't know how to say, out of the bubble."
+    > Suggestion: "I feel a little, I don't know how to say, out of the loop."
+    > Explanation: The phrase 'out of the bubble' is not commonly used; 'out of the loop' is more appropriate.
+
+### Additional class insights:
+#### Vocabulary learned:
+1. **networking**: building professional relationships and connections
+2. **out of the loop**: not informed or involved in current events or information
+3. **out of the bubble**: non-standard phrase (should use "out of the loop")
+4. **complex sentences**: sentences with multiple clauses connected by conjunctions
+5. **even though**: conjunction used to express contrast or concession
+6. **not only... but also**: paired conjunction for adding emphasis and complexity
+7. **what's more**: transitional phrase to add additional information
+8. **full day training**: intensive training session lasting an entire day
+9. **São Paulo**: largest city in Brazil, major business hub
+10. **birthday party**: celebration gathering for someone's birthday
+11. **staff engineer**: senior technical role, next career level after senior engineer
+12. **career path**: progression route in professional development
+13. **anniversary**: yearly celebration of an event (also used for birthdays in some contexts)
+14. **double dipping**: putting bitten food back into shared sauce (considered rude)
+15. **treadmill**: exercise machine for indoor running
+16. **podcast**: digital audio program for listening and learning
+17. **gums**: soft tissue around teeth
+18. **sensitive**: easily affected or hurt (teeth/gums)
+19. **genetics**: inherited characteristics from parents
+20. **plastic surgery**: medical procedures to alter appearance
+21. **crooked**: not straight (teeth alignment)
+22. **regrow**: grow back after loss or damage
+23. **personality**: distinctive character traits of a person
+
+#### Communication strengths identified:
+1. **Detailed storytelling**: Shared comprehensive stories about weekend training in São Paulo and family birthday party
+2. **Complex sentence construction**: Effectively used multi-clause sentences when discussing training and career
+3. **Cultural awareness**: Expressed personal opinions about sports and cultural differences
+4. **Personal opinion expression**: Confidently shared views and experiences
+5. **Conversational skills**: Strong ability to describe complex experiences naturally
+6. **Extended conversation ability**: Maintained long discussion about basketball, running, and cultural topics
+7. **Comparative analysis**: Discussed differences between Brazilian and international cultures
+8. **Personal anecdotes**: Shared meaningful stories (basketball rejection, eyebrow scar, running motivation)
+
+#### Areas for improvement:
+1. **Tense consistency**: Avoid mixing present and past tenses ("can do was" → "did was", "fly" → "flew", "I'm tired" → "I was tired")
+2. **Sentence structure variety**: Use more sophisticated connectors ("even though," "not only... but also," "what's more")
+3. **Vocabulary precision**: "network" → "networking", "out of the bubble" → "out of the loop"
+4. **Article usage**: "on the Saturday" → "on Saturday" (no article needed)
+5. **Verb simplification**: "did something, win" → "won" (avoid unnecessary complexity)
+
+#### Class activities completed:
+1. **Weekend recap**: Described trip to São Paulo for full-day staff engineer training
+2. **Career development discussion**: Explained staff engineer role as next career level, learning new skills
+3. **Networking story**: Met people from all regions of Brazil (north, south, center), exchanged experiences
+4. **Family events**: Wife's aunt's 75th birthday party on Sunday
+5. **Soccer culture**: Discussed Brazilian soccer obsession, feeling "out of the loop" as non-fan
+6. **Sports discussion**: Comprehensive conversation about basketball
+   - Played until before college, stopped due to height limitations (5'11")
+   - Coach rejection story despite skills
+   - Favorite player: Allen Iverson (admired height and style)
+   - NBA nostalgia: 2004-2005 Pistons era discussion (Rashid Wallace, Ben Wallace, Chauncey Billups)
+   - Modern NBA criticism: too technical, focused on money over passion
+7. **Running passion**: Explained 10-year running journey
+   - Started after gaining weight
+   - Mental benefits: patience, relaxation, goal-setting mindset
+   - Current routine: 1-hour runs, 5-7km distance goals
+   - Uses treadmill for safety/traffic concerns
+   - Listens to English podcasts while running (American English Podcast)
+8. **Cultural comparison deep dive**:
+   - Double dipping customs (normal in Brazil, rude in US/UK)
+   - Teeth brushing after every meal (Brazilian custom)
+   - Arabic eating customs (right hand only for religious/hygiene reasons)
+   - Brazilian toothbrush culture vs international norms
+9. **Personal stories**:
+   - Gum sensitivity preventing frequent brushing
+   - Natural eyebrow scar from age 3 fall (mistaken for intentional style)
+   - Genetics discussion about teeth health
+10. **Future technology**: Japan teeth regrowth research, human trials discussion
+11. **Plastic surgery philosophy**: Natural beauty vs perfection pursuit, personality in physical features
+
+#### Next steps:
+1. **Story retelling practice**: Tell the same story using different sentence connectors
+2. **Recording exercise**: Record imaginary conversations about passions (running, career development) and review sentence patterns
+3. **Tense consistency drill**: Practice past event narration with consistent past tense
+4. **Connector practice**: Incorporate "even though," "not only... but also," "what's more" in daily speech
+5. **Self-review**: Listen to recordings to identify sentence structure patterns and areas for improvement
+
+#### Teacher's assessment:
+- **Strength**: excellent detailed storytelling and complex sentence construction ability
+- **Progress**: strong cultural awareness and personal opinion expression
+- **Focus area**: sentence structure variety and tense consistency
+- **Recommendation**: practice varied connectors and record/review conversations for pattern awareness
+
+#### Conversation highlights:
+- **Staff engineer training**: Full-day intensive in São Paulo, learning about next career level path
+- **Networking success**: Met professionals from all Brazilian regions (north, south, center), shared career experiences
+- **Family celebration**: Wife's aunt's 75th birthday, soccer game during party (typical Brazilian Sunday)
+- **Soccer outsider**: Feels "out of the loop" as Brazilian who doesn't follow soccer closely
+- **Basketball rejection story**: Coach dismissed him for height (5'11") without watching him play - "sad, very sad"
+- **Basketball nostalgia**: Deep discussion about Allen Iverson, Rashid Wallace, Ben Wallace, 2004-2005 Pistons
+- **NBA criticism**: Modern game too technical, foul-focused, money-driven; players change teams for wins instead of team loyalty
+- **Running transformation**: 10 years ago gained weight, started running for mental health benefits
+- **Running philosophy**: Mental process creates patience and relaxation; "you can run everywhere, put a shoe on and go"
+- **Running routine**: 1-hour runs, 5-7km goals, uses treadmill for safety and traffic, listens to English podcasts
+- **Learning while exercising**: Listens to American English Podcast during runs to improve listening skills
+- **Podcast content**: Curiosities about English words, American vs British culture, cultural etiquette to avoid strange situations
+- **Double dipping revelation**: Learned it's rude in US/UK but normal in Brazil; now avoids except with wife
+- **Teeth brushing culture**: Common in Brazil to brush after every meal, but doesn't do it due to sensitive gums
+- **Cultural eating customs**: Discussed Arabic tradition of eating with right hand only (left for hygiene)
+- **Eyebrow scar story**: Natural scar from falling at age 3, people think it's intentional style choice
+- **Teeth as personality**: Discussion about how physical features (crooked teeth, eyebrow scar) become part of identity
+- **Japan teeth research**: Fascinated by teeth regrowth technology using gum injections, human trials coming
+- **Natural beauty philosophy**: Concerned about plastic surgery trend making everyone look the same, losing natural personality
+- **Quality of life**: Emphasized teeth importance for overall life quality, excited about regeneration possibilities
+
+---
+
+## Class 8 | 10 November 2025
 
 ### Started classes with Teacher Justin Remy
 
