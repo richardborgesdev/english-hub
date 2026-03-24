@@ -68,3 +68,6 @@ v
 
 ### Busuu | A2
 ![Busuu A2 certificate](./assets/busuuA2.png)
+
+### Busuu | B1
+![Busuu B1 certificate](./assets/busuuB1.png)
