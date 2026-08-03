@@ -71,3 +71,9 @@ v
 
 ### Busuu | B1
 ![Busuu B1 certificate](./assets/busuuB1.png)
+
+### Busuu | B2
+![Busuu B2 certificate](./assets/busuuB2.png)
+
+### Busuu | 438 days to finish all courses and reviews
+![Busuu 438 days to finish all courses and reviews](./assets/busuu438.png)
